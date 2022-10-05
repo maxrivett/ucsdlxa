@@ -7,6 +7,24 @@
 ## [Study Room Schedule](https://maxrivett.github.io/ucsdlxa/pages/studyrooms)
 
 <br>
+
+## Important Academic Dates
+
+| Event                                 | Date|
+|-------------------------------------- |---- |
+| Automatic wait lists officially end   | Oct. 6 |
+| Deadline to add or re-enroll in classes if canceled for non-payment via WebReg  | Oct. 7 | 
+| Deadline to apply for part-time status | Oct. 7 |
+| Deadline to file for Advancement to Candidacy for Master's degrees | Oct. 14 |
+| Deadline to change grading option | Oct. 21 |
+| Deadline to change units | Oct. 21 |
+| Deadline to drop classes without "W" grade on transcript | Oct. 21 |
+| Deadline to drop with "W" grade on transcript | Nov. 4 |
+| Last day of classes before finals | Dec. 2 |
+
+
+<br>
+
 ## Upcoming Study Jams
 
 
