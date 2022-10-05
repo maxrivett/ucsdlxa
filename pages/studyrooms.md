@@ -1,5 +1,7 @@
 # Study Room Schedule
 
+<i>Bolded rooms will be used for study jams.</i>
+
 | Room        | Size        | Date           |
 | ----------- | ----------- |--------------- |
 | Geisel 721  | Large       | Sept. 18, 3-6pm |
@@ -12,8 +14,8 @@
 | Geisel 1040  | Medium       | Oct. 6, 11am-2pm |
 | Geisel 2096A  | Medium       | Oct. 7, 11am-2pm |
 | Geisel 519  | Small       | Oct. 10, 12-1pm |
-| Geisel 1041  | Medium       | Oct. 11, 1-5pm |
-| Geisel 1040  | Medium       | Oct. 11, 1-2pm |
+| <b>Geisel 1041</b>  | <b>Medium</b>       | <b>Oct. 11, 1-5pm</b> |
+| <b>Geisel 1040</b>  | <b>Medium</b>       | <b>Oct. 11, 1-2pm</b> |
 | Geisel 721  | Large       | Oct. 11, 4-8pm |
 | Geisel 718  | Small       | Oct. 12, 4-5pm |
 | Geisel 619  | Small       | Oct. 13, 3:30-5pm |

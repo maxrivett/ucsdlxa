@@ -9,7 +9,15 @@
 <br><br>
 ## Upcoming Study Jams
 
-<br><br>
-## Course Matching Form
+<br>
 
-<br><br>
+- <b>KKG</b> Week 3 (Tuesday)
+- <b>Tri Delta</b> Week 7 (TBD) 
+
+<br>
+
+## [Course Matching Form](https://docs.google.com/forms/d/1_8MgJCG7Sm3CP-yomvigv8RMfPkGkZNpNql6qLxFxdY/edit)
+
+<br>
+Note that this form is now closed; if you did not fill it out on time and would like to do so now, please email mrivett@ucsd.edu once completed.
+<br>
