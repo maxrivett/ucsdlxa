@@ -2,7 +2,7 @@
 <br>
 <i>Here, I will post information regarding academics including study rooms, jams, and more. To schedule an individual meeting regarding academics, email <mrivett@ucsd.edu>.</i>
 
-<br><br>
+<br>
 
 ## [Study Room Schedule](https://maxrivett.github.io/ucsdlxa/pages/studyrooms)
 
