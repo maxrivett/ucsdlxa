@@ -1,6 +1,7 @@
 # Study Room Schedule
 
-<i>Bolded rooms will be used for study jams.</i>
+<i>Bolded rooms will be used for study jams. Per UCSD, "Small" rooms can fit 2-4 students, "Medium" can fit 5-8, and "Large" can fit 8+.</i>
+
 
 | Room        | Size        | Date           |
 | ----------- | ----------- |--------------- |
