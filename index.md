@@ -4,7 +4,7 @@
 
 <br><br>
 
-## Study Room Schedule
+## [Study Room Schedule](https://maxrivett.github.io/ucsdlxa/pages/studyrooms)
 
 <br><br>
 ## Upcoming Study Jams
