@@ -1,6 +1,6 @@
 # Lambda Chi Alpha Academic Hub
 <br>
-<i>Here, I will post information regarding academics including study rooms, jams, and more.</i>
+<i>Here, I will post information regarding academics including study rooms, jams, and more. To schedule an individual meeting regarding academics, email <mrivett@ucsd.edu>.</i>
 
 <br><br>
 
@@ -19,5 +19,5 @@
 ## [Course Matching Form](https://docs.google.com/forms/d/1_8MgJCG7Sm3CP-yomvigv8RMfPkGkZNpNql6qLxFxdY/edit)
 
 <br>
-Note that this form is now closed; if you did not fill it out on time and would like to do so now, please email mrivett@ucsd.edu once completed.
+Note that this form is now closed; if you did not fill it out on time and would like to do so now, please email <mrivett@ucsd.edu> once completed.
 <br>
