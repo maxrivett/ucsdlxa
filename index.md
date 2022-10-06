@@ -8,10 +8,11 @@
 
 <br>
 
-## Important Academic Dates
+## Important Academic Dates - Fall Quarter
 
 | Event                                 | Date|
 |-------------------------------------- |---- |
+| First Day of Classes                  | Sep 22 |
 | Automatic wait lists officially end   | Oct. 6 |
 | Deadline to add or re-enroll in classes if canceled for non-payment via WebReg  | Oct. 7 | 
 | Deadline to apply for part-time status | Oct. 7 |

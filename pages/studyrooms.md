@@ -28,3 +28,4 @@
 | Geisel 519  | Small       | Oct. 17, 3-6pm |
 | Geisel 619  | Small       | Oct. 18, 2-5pm |
 | Geisel 721  | Large       | Oct. 19, 4-8pm |
+| Geisel 1042 | Medium      | Oct. 20, 2-6pm |
