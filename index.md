@@ -13,8 +13,6 @@
 <!-- Photo is 400x400 pixels -->
 ![Wei Gao](/images/galway.png)
 
-<br>
-
 Galway was acting highly studious while cranking through some decryption work in the Friday study room.
 
 
