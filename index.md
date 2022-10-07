@@ -11,7 +11,7 @@
 ## Academic Weapon of the Week
 
 <!-- Photo is 400x400 pixels -->
-![Wei Gao](/images/galway.png)
+![Wei Gao](/images/galway1.png)
 
 Galway was acting highly studious while cranking through some decryption work in the Friday study room.
 
