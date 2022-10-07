@@ -10,6 +10,7 @@
 
 ## Academic Weapon of the Week
 
+<!-- Photo is 400x400 pixels -->
 ![Wei Gao](/images/galway.png)
 
 <br>
