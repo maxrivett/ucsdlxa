@@ -8,6 +8,17 @@
 
 <br>
 
+## Academic Weapon of the Week
+
+![Wei Gao](/images/galway.png)
+
+<br>
+
+Galway was acting highly studious while cranking through some decryption work in the Friday study room.
+
+
+<br>
+
 ## Important Academic Dates - Fall Quarter
 
 | Event                                 | Date|
