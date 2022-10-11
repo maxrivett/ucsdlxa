@@ -31,3 +31,5 @@
 | Geisel 1042 | Medium      | Oct. 20, 2-6pm |
 | Geisel 2096B | Medium     | Oct. 21, 11am-3pm |
 | | <b>Week Five</b>                                  |
+| Geisel 518 | Small        | Oct. 24, 2-5pm |
+| Geisel 2096A | Medium     | Oct. 25, 2-6pm | 
