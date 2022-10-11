@@ -26,7 +26,6 @@ Galway was acting highly studious while cranking through some decryption work in
 | Automatic wait lists officially end   | Oct. 6 |
 | Deadline to add or re-enroll in classes if canceled for non-payment via WebReg  | Oct. 7 | 
 | Deadline to apply for part-time status | Oct. 7 |
-| Deadline to file for Advancement to Candidacy for Master's degrees | Oct. 14 |
 | Deadline to change grading option | Oct. 21 |
 | Deadline to change units | Oct. 21 |
 | Deadline to drop classes without "W" grade on transcript | Oct. 21 |
@@ -36,15 +35,14 @@ Galway was acting highly studious while cranking through some decryption work in
 
 <br>
 
-## Upcoming Study Jams
+## Study Jams - Fall Quarter
 
 
 - <b>KKG</b> Week 3 (Tuesday)
-- <b>Tri Delta</b> Week 7 (TBD) 
+- <b>Tri Delta</b> Week 7 (Monday) 
 
 <br>
 
 ## [Course Matching Form](https://docs.google.com/forms/d/1_8MgJCG7Sm3CP-yomvigv8RMfPkGkZNpNql6qLxFxdY/edit)
 
-Note that this form is now closed; if you did not fill it out on time and would like to do so now, please email <mrivett@ucsd.edu> once completed.
 <br>
