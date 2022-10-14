@@ -2,8 +2,11 @@
 
 There are three main components of this repository:
 [1. Lambda Chi Alpha Academic Hub (Website)](#lambda-chi-alpha-academic-hub)
+<br>
 [2. Course Matching Program](#course-matching)
+<br>
 [3. Study Room Booking Bot (Coming Soon)](#study-room-booking-bot)
+<br>
 
 ## Lambda Chi Alpha Academic Hub
 
