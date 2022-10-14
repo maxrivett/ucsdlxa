@@ -12,8 +12,8 @@ import java.util.Scanner; // Import the Scanner class to read text files
  * between students for ease of finding a group of people to 
  * study with. 
  * Author: Max Rivett
- * First Created: October 13, 2022
- * Last Updated: October 13, 2022
+ * First Created: October 13, 2022 (Max Rivett)
+ * Last Updated: October 14, 2022 (Max Rivett)
  */
 public class Matcher {
 
