@@ -281,6 +281,11 @@ public class Matcher {
       }
     }
 
+    /**
+     * Reads the input file (raw.txt) and
+     * counts how many lines there are.
+     * @return the number of lines
+     */
     public static int countFileLines() {
       int cnt = 0;
       try {
@@ -298,6 +303,11 @@ public class Matcher {
       return cnt;
     }
 
+    /**
+     * Reads the input file (raw.txt) and adds
+     * the student information to the array.
+     * @param people array of student info
+     */
     public static void addStudentInfo(String[] people) {
       try {
         int ctr = 0;
@@ -306,7 +316,6 @@ public class Matcher {
         while (myReader.hasNextLine()) {
           String data = myReader.nextLine();
           String edited = data.replaceAll("/", "");
-          System.out.println(edited);
           people[ctr] = edited;
           ctr++;
         }
