@@ -138,7 +138,9 @@ public class Matcher {
       createMajorFile(major);
       for (int i = 0; i < numPeople; i++) {
         String tmp = people[i];
-        if (tmp.contains(major)) {
+        String firstCut = tmp.substring(tmp.indexOf(":") + 1,tmp.length());
+        String secondCut = firstCut.substring(firstCut.indexOf(":") + 1,firstCut.indexOf(":", firstCut.indexOf(":")+1)); 
+        if (secondCut.equals(major)) {
           String text = tmp.substring(0, tmp.indexOf(":")) + " (" + tmp.substring(tmp.indexOf(":")+1, tmp.indexOf(":", tmp.indexOf(":") + 1)) + ")";
           writeToMajorFile(major, text);
         }
@@ -158,9 +160,30 @@ public class Matcher {
       createCourseFile(course);
       for (int i = 0; i < numPeople; i++) {
         String tmp = people[i];
-        if (tmp.contains(course)) {
-          String text = tmp.substring(0, tmp.indexOf(":")) + " (" + tmp.substring(tmp.indexOf(":")+1, tmp.indexOf(":", tmp.indexOf(":") + 1)) + ")";
-          writeToCourseFile(course, text);
+        String firstCut = tmp.substring(tmp.indexOf(":") + 1,tmp.length());
+        String secondCut = firstCut.substring(firstCut.indexOf(":") + 1,firstCut.length());
+        String thirdCut = secondCut.substring(secondCut.indexOf(":") + 1,secondCut.length());
+        while (thirdCut.indexOf(":") >= 0) {
+          // overcomplicated if series to catch cases 
+          // where students don't have many courses
+          if (thirdCut.equals("::::::")) {
+            break;
+          } else if (thirdCut.equals(":::::")) {
+            break;
+          } else if (thirdCut.equals("::::")) {
+            break;
+          } else if (thirdCut.equals(":::")) {
+            break;
+          } else if (thirdCut.equals("::")) {
+            break;
+          } else if (thirdCut.equals(":")) {
+            break;
+          } 
+          if (thirdCut.substring(0,thirdCut.indexOf(":")).equals(course)) {
+            String text = tmp.substring(0, tmp.indexOf(":")) + " (" + tmp.substring(tmp.indexOf(":")+1, tmp.indexOf(":", tmp.indexOf(":") + 1)) + ")";
+            writeToCourseFile(course, text);
+          } 
+          thirdCut = thirdCut.substring(thirdCut.indexOf(":")+1, thirdCut.length());
         }
       }
     }
