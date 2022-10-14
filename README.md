@@ -12,6 +12,8 @@ There are three main components of this repository:
 ## Lambda Chi Alpha Academic Hub
 
 A website created by Max Rivett, High Sigma (2022), displaying important information to benefit members of Lambda Chi Alpha at UC San Diego. Said information includes table showing study room bookings, academic calendar, and links to other tools like the Course Matching form.
+<br>
+<maxrivett.github.io/ucsdlxa/>
 
 <br>
 
