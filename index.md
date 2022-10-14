@@ -11,9 +11,9 @@
 ## Academic Weapon of the Week
 
 <!-- Photo is 400x400 pixels -->
-![Wei Gao](/images/galway1.png)
+![Gabriel](/images/gabe1.png)
 
-Galway was acting highly studious while cranking through some decryption work in the Friday study room.
+Gabriel was nothing short of an absolute academic tactical missile this week, and showed this when he made the tough choice to grind out some Structural Engineering work instead of attending <i>ucsdpartycentral</i>'s "Summer Sendoff" as he had formerly planned.
 
 
 <br>
