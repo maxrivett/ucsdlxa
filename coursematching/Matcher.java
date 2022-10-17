@@ -11,9 +11,60 @@ import java.util.Scanner; // Import the Scanner class to read text files
  * The goal of this program is to match courses (and majors)
  * between students for ease of finding a group of people to 
  * study with. 
- * Author: Max Rivett
+ * 
+ * ---------------------------------------------------------
+ *                DEFINITIVE GUIDE OF USE:
+ * ---------------------------------------------------------
+ * 1. Create a form that asks for every member's name,
+ * email, major, and the courses that they are taking
+ * this quarter. (Make the first two courses mandatory
+ * to fill out, and the next for optional. This is because
+ * not every student will take the same number of courses)
+ * ---------------------------------------------------------
+ * 2. After you make as many members as possible fill out
+ * the form, save the form data as a .csv file and open in 
+ * Excel.
+ * ---------------------------------------------------------
+ * 3. If any dumbass has filled it out improperly (typed their
+ * major/courses in a weird way), make those corrections.
+ * ---------------------------------------------------------
+ * 4. Find a way to concatenate all fields with a colon separator.
+ * I did this by using the Excel equation:
+ * =C2&":"&B2&":"&D2&":"&E2&":"&F2&":"&G2&":"&H2&":"&I2&":"&J2&":"
+ * This assumes that the name is in the C column, email in the B
+ * column, major in the D column, and courses in the columns E-J, 
+ * in order. This should create a column that has data that looks 
+ * like this:
+ * Max Rivett:mrivett@ucsd.edu:Computer Science:CSE 21:CSE 30:AAS 10:HILD 7A:::
+ * Notice how there are leftover colons at the end; leave those.
+ * ----------------------------------------------------------
+ * 5. Copy the data from this column you have created, and paste 
+ * it into the a file called "raw.txt".
+ * ----------------------------------------------------------
+ * 6. Create a new directory in the repository (which you should 
+ * have copied remotely), and name it after the current quarter. 
+ * e.g. fa22, wi24, sp26 would be for Fall 2022, Winter 2024, and
+ * Spring 2026, respectively.
+ * -----------------------------------------------------------
+ * 7. Paste the "raw.txt" file with the member info into this
+ * quarter's directory.
+ * -----------------------------------------------------------
+ * 8. From the command line, enter the "coursematching" directory 
+ * (using command line commands like "cd this_directory", search
+ * online if unsure how to do this).
+ * -----------------------------------------------------------
+ * 9. Enter these commands:
+ * javac Matcher.java
+ * java Matcher.java
+ * -----------------------------------------------------------
+ * 10. Push your edits to the repository, and you will see the 
+ * members' courses/majors have been matched! Rejoice. Contact
+ * author if any issues arise.
+ * -----------------------------------------------------------
+ * 
+ * Author: Max Rivett (mrivett@ucsd.edu, maxnrivett@gmail.com if this somehow survives that long)
  * First Created: October 13, 2022 (Max Rivett)
- * Last Updated: October 14, 2022 (Max Rivett)
+ * Last Updated: October 16, 2022 (Max Rivett)
  */
 public class Matcher {
 
@@ -141,7 +192,14 @@ public class Matcher {
         String firstCut = tmp.substring(tmp.indexOf(":") + 1,tmp.length());
         String secondCut = firstCut.substring(firstCut.indexOf(":") + 1,firstCut.indexOf(":", firstCut.indexOf(":")+1)); 
         if (secondCut.equals(major)) {
-          String text = tmp.substring(0, tmp.indexOf(":")) + " (" + tmp.substring(tmp.indexOf(":")+1, tmp.indexOf(":", tmp.indexOf(":") + 1)) + ")" + quarter;
+          /*
+           * The text string that will be outputted includes the quarter at the end.
+           * This was done intentionally by original creator so that when this 
+           * program (hopefully) gets passed on for years to come, future Sigmas can
+           * use this to see who has taken a course (and when) not just who is taking 
+           * a course.
+           */
+          String text = tmp.substring(0, tmp.indexOf(":")) + " (" + tmp.substring(tmp.indexOf(":")+1, tmp.indexOf(":", tmp.indexOf(":") + 1)) + ")" + quarter.toUpperCase();
           writeToMajorFile(major, text);
         }
       }
@@ -180,7 +238,14 @@ public class Matcher {
             break;
           } 
           if (thirdCut.substring(0,thirdCut.indexOf(":")).equals(course)) {
-            String text = tmp.substring(0, tmp.indexOf(":")) + " (" + tmp.substring(tmp.indexOf(":")+1, tmp.indexOf(":", tmp.indexOf(":") + 1)) + ")" + quarter;
+          /*
+           * The text string that will be outputted includes the quarter at the end.
+           * This was done intentionally by original creator so that when this 
+           * program (hopefully) gets passed on for years to come, future Sigmas can
+           * use this to see who has taken a course (and when) not just who is taking 
+           * a course.
+           */
+            String text = tmp.substring(0, tmp.indexOf(":")) + " (" + tmp.substring(tmp.indexOf(":")+1, tmp.indexOf(":", tmp.indexOf(":") + 1)) + ")" + quarter.toUpperCase();
             writeToCourseFile(course, text);
           } 
           thirdCut = thirdCut.substring(thirdCut.indexOf(":")+1, thirdCut.length());
