@@ -141,7 +141,7 @@ public class Matcher {
         String firstCut = tmp.substring(tmp.indexOf(":") + 1,tmp.length());
         String secondCut = firstCut.substring(firstCut.indexOf(":") + 1,firstCut.indexOf(":", firstCut.indexOf(":")+1)); 
         if (secondCut.equals(major)) {
-          String text = tmp.substring(0, tmp.indexOf(":")) + " (" + tmp.substring(tmp.indexOf(":")+1, tmp.indexOf(":", tmp.indexOf(":") + 1)) + ")";
+          String text = tmp.substring(0, tmp.indexOf(":")) + " (" + tmp.substring(tmp.indexOf(":")+1, tmp.indexOf(":", tmp.indexOf(":") + 1)) + ")" + quarter;
           writeToMajorFile(major, text);
         }
       }
@@ -180,7 +180,7 @@ public class Matcher {
             break;
           } 
           if (thirdCut.substring(0,thirdCut.indexOf(":")).equals(course)) {
-            String text = tmp.substring(0, tmp.indexOf(":")) + " (" + tmp.substring(tmp.indexOf(":")+1, tmp.indexOf(":", tmp.indexOf(":") + 1)) + ")";
+            String text = tmp.substring(0, tmp.indexOf(":")) + " (" + tmp.substring(tmp.indexOf(":")+1, tmp.indexOf(":", tmp.indexOf(":") + 1)) + ")" + quarter;
             writeToCourseFile(course, text);
           } 
           thirdCut = thirdCut.substring(thirdCut.indexOf(":")+1, thirdCut.length());
