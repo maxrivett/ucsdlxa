@@ -1,33 +1,54 @@
-Georgio:gruffato@ucsd.edu:International Business:MGT 16, Buchanan:Math 10C, Nemish:ANTH 21 Kang:MCWP 40, Wastal:::
+Georgio:gruffato@ucsd.edu:International Business:MGT 16:Math 10C:ANTH 21:MCWP 40:::
 Max Rivett:mrivett@ucsd.edu:Computer Science:AAS 10:CSE 21:CSE 30:HILD 7A:::
-Andras :alengyel@ucsd.edu:Real Estate Development :USP 1:USP 15:USP 25:MGT 12:::
-Mason Faust:mfaust@ucsd.edu:Bioengineering:BENG 110:MAE 107:MAE 170 :COGS 2:::
+Andras:alengyel@ucsd.edu:Real Estate Development:USP 1:USP 15:USP 25:MGT 12:::
+Mason Faust:mfaust@ucsd.edu:Bioengineering:BENG 110:MAE 107:MAE 170:COGS 2:::
 Harrison Evans:hevans@ucsd.edu:Business Economics:ECON 110B:ECON 168:TDMV 142:MGT 153:::
 Jacob:jacobgil64@gmail.com:Pharmacological Chemistry, Human Biology:BICD 110:CHEM 126A:VIS 1:MATH 11:::
-Nima Pourafzal :npourafzal@ucsd.edu:Chemical Engineering :CENG 100:CHEM 7L:CHEM 41A:MUS 5:::
-Nickolas Dali:nickdali12@gmail.com:Business Economics:Personal Financial Management:Fundamentals of Music A:Orgasmic & Evolutionary Biology :Principles of Accounting:::
-Vlad:vrubtsov@ucsd.edu:Mechanical engineering:MAE 101A (Bahadori):MAE 143A (Kramer):MAE 170 (Lubarda):SYN 100:::
-Kian Haghnazari:khaghnazari@ucsd.edu:Nano Engineering:LTLA 100:NANO 102:NANO 4:MUS 1A:PHYS 2C::
-Ibrahim Ali:ibali@ucsd.edu:General Bio:Chem43A:BIPN100:Lign 101::::
+Nima Pourafzal:npourafzal@ucsd.edu:Chemical Engineering:CENG 100:CHEM 7L:CHEM 41A:MUS 5:::
+Nickolas Dali:nickdali12@gmail.com:Business Economics:MGT 12:Music 1A:BILD 3:MGT 45:::
+Vlad:vrubtsov@ucsd.edu:Mechanical Engineering:MAE 101A:MAE 143A:MAE 170:SYN 100:::
+Kian Haghnazari:khaghnazari@ucsd.edu:Nanoengineering:LTLA 100:NANO 102:NANO 4:MUS 1A:PHYS 2C::
+Ibrahim Ali:ibali@ucsd.edu:General Biology:Chem 43A:BIPN 100:Lign 101::::
 Quinn:quinnbrandt708@gmail.com:Data science:Cogs 14b:Dsc 30:Mmw 14:Sio 15:::
 Austin Calza:acalza@ucsd.edu:Cognitive Science:ETHN 1:MATH 20E:COGS 17:DSGN 1:COGS 14A::
-Ethan :ebutlervanderlinden@ucsd.edu:International Business:SIO30:ECON4:MGT16:MATH10A:::
-Hector Pinzon:hpinzon@ucsd.edu:business economics  :ethn 139:Eds 125:Econ 1:Mgt 16:::
+Ethan:ebutlervanderlinden@ucsd.edu:International Business:SIO 30:ECON 4:MGT 16:MATH 10A:::
+Hector Pinzon:hpinzon@ucsd.edu:Business Economics:ETHN 139:Eds 125:Econ 1:Mgt 16:::
 Cyrus:cyrus.zomo@gmail.com:Sociology:Soc 100:Soc 122:Soc 117:Soc 131:::
-Robin Shan:zshan@ucsd.edu:Business Econ/ Accounting:Econ 100A:MGT 131A:MGT 71::::
+Robin Shan:zshan@ucsd.edu:Business Economics, Accounting:Econ 100A:MGT 131A:MGT 71::::
 Gabriel Rogers:g1rogers@ucsd.edu:Structural Engineering:SE 131B:SE 180:SE 181:MMW 14:::
-Sebastian Padgett:spadgett@ucsd.edu:Business Psychology :BILD 1:SIO 15:VIS 20:POLI 27:n/a:n/a:
-Daniel Ramirez:dar005@ucsd.edu:Math and Computer Science:CSE 120:Math 183:Math 103a::::
-Jasper shim:jyshim18@gmail.com:Neurobiology :MATH 11:BIPN 140:BIBC 100::::
-Bambos:cchristoforou@ucsd.edu:International Studies Pol Sci:LTSP 2A:LATI50:ECON 1:MMW14:::
-Eshan :essingh@ucsd.edu:Business Econ:MGT 45:Phil 31:Cogs 100:Cogs 101B:::
+Sebastian Padgett:spadgett@ucsd.edu:Business Psychology:BILD 1:SIO 15:VIS 20:POLI 27:::
+Daniel Ramirez:dar005@ucsd.edu:Mathematics and Computer Science:CSE 120:Math 183:Math 103a::::
+Jasper shim:jyshim18@gmail.com:Neurobiology:MATH 11:BIPN 140:BIBC 100::::
+Bambos:cchristoforou@ucsd.edu:International Studies Political Science:LTSP 2A:LATI 50:ECON 1:MMW 14:::
+Eshan:essingh@ucsd.edu:Business Economics:MGT 45:Phil 31:Cogs 100:Cogs 101B:::
 Rohan Rangarajan:rrangarajan@ucsd.edu:Business Economics:Econ 110b:Econ 120a:Mgt 175:Mgt 181:::
-Erick:e5mendoz@ucsd.edu:Business Economics :MUS 107:MGT 71:HIUS 112:USP 5:::
-Galway Gao:weg034@ucsd.edu:Mathematics - Computer Science:MATH 187A:MATH 170A:HIUS 112:CSE 100:::
-Noel gomez:nogomez@ucsd.edu:Political science :Poli 104M:Poli 100V:Poli 110A:Poli 104A:::
-Max Shutze :mshutze@ucsd.edu:Business/Economics :BILD 3:MGT 18:MUS 6:GSS 20:::
-Krithin Ramakrishna :kramakrishna@ucsd.edu:Business Economics:SIO 15:Econ 100B:MGT 45:Poli 100G:Poli 120G::
+Erick:e5mendoz@ucsd.edu:Business Economics:MUS 107:MGT 71:HIUS 112:USP 5:::
+Galway Gao:weg034@ucsd.edu:Mathematics and Computer Science:MATH 187A:MATH 170A:HIUS 112:CSE 100:::
+Noel gomez:nogomez@ucsd.edu:Political science:Poli 104M:Poli 100V:Poli 110A:Poli 104A:::
+Max Shutze:mshutze@ucsd.edu:Business Economics:BILD 3:MGT 18:MUS 6:GSS 20:::
+Krithin Ramakrishna:kramakrishna@ucsd.edu:Business Economics:SIO 15:Econ 100B:MGT 45:Poli 100G:Poli 120G::
 Markus Gokan:mgokan@ucsd.edu:Mechanical Engineering:MATH 20E:MAE 20:MAE 30A:MAE 40:TDMV 142::
 HeeJae Choi:hec008@ucsd.edu:Economics:ECON 100C:HIEU 154:MGT 153:PHIL 100:::
-Syler Sylvester:ssylvester@ucsd.edu:ECE:PHYS 2D:ECE 65:ECE 45:MATH 102:::
-Harrison Le:hal117@ucsd.edu:Computer Science:MMW 11:CSE8a:math 3c (precalc):Bild 1 (bio):::
+Syler Sylvester:ssylvester@ucsd.edu:Electrical and Computer Engineering:PHYS 2D:ECE 65:ECE 45:MATH 102:::
+Harrison Le:hal117@ucsd.edu:Computer Science:MMW 11:CSE8a:math 3c:Bild 1:::
+Kensuke Takeuchi:ktakeuchi@ucsd.edu:International Business:MGT 112:MGT 134:MGT 135:LIGN 8:VIS 128E::
+Ali Aljoher:aa7742547@gmail.com:Business Economics:MATH 10C:MGT 18:MGT 181:MGT 187:::
+Giulio:grambelli@ucsd.edu:International business:MGT 5:MATH 3c:MMW 11r:ERC 20:::
+Brenden Warren:brendenwarren02@gmail.com:Business Economics:Math 10B:Phil 10:Phil 13:Comm 10:::
+Miller Siler:msiler@ucsd.edu:Sociology:MGT 12:LISP 1B:LISP 1BX::::
+Shresht Venkatraman:shv011@ucsd.edu:Economics:ECON 130:ECON 121:DSC 80:COGS 108:::
+Cole Hazelbaker:chazelbaker@ucsd.edu:Political Science:POLI 13DR:VIS 20:PSYC 60:PHIL 12:::
+Jake Golden:jcgolden@ucsd.edu:Business Economics:BILD 1:MMW 11R:CHEM 6A::::
+Mohammed Abou Abbas:mabouabbas@ucsd.edu:Human Biology:BILD 1:PYSC 1A:PYSC 1AL:TDAC 1:CHEM 40A::
+Sven:svenneuschul@gmail.com:Nanoengineering:CHEM 6A:MUS 5:COMM 10:MATH 20A:::
+Jordan Lambino:jlambino@ucsd.edu:Data Science:DSC 10:COGS 9:SIO 40:ECON 1:::
+Anthony Yako:ayako@ucsd.edu:Business Economics:Math 20a:ECON 1:AAS 170:MMW 121:::
+Will Nam:vnam@ucsd.edu:General Biology:BIEB 146:HILA 122:PHYS 1A:PHYS 1AL:::
+Diego Williams:ddw004@ucsd.edu:Undeclared:MATH 20A:CHEM 6A:MMW 11::::
+Nikolas Malek:micknalek@gmail.com:Cognitive Science:COGS 17:DOC 1:ETHN 1::::
+Brennan Giva:bgiva@ucsd.edu:Human Biology:BICD 100:PHYS 1A:PHYS 1AL:COGS 2:::
+Naseem Moussa:Nmoussa@ucsd.edu:Neurobiology:CHEM 7L:CHEM 40A:PHYS 1A:PHYS 1AL:::
+Josh Bauzon:jbauzon@ucsd.edu:Business Economics:MATH 10B:LTCS 111:AAS 170::::
+Srihan Basvapatri:sbasvapatri@ucsd.edu:Nanoengineering:MATH 20C:PSYC 1:WCWP 10A:ECE 15:::
+Andres Ramirez:aramirezbarrantes@ucsd.edu:Economics and Mathematics:HILD 2A:ECON 1:WCWP 10A::::
+Sujit Tunuguntla:stunuguntla@ucsd.edu:Bioengineering:MAE 107:MAE 170:BENG 110:BENG 141:MAE 40:CAT 125:
