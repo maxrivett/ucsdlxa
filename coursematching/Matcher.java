@@ -70,6 +70,7 @@ import java.util.Scanner; // Import the Scanner class to read text files
  * members' courses/majors have been matched! Rejoice. Contact
  * author if any issues arise.
  * -----------------------------------------------------------
+ * 
  * Final notes:
  * I realize that this code is not wildly efficient. I made this
  * on a whim on a Friday afternoon in a boring African-American
