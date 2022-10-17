@@ -27,6 +27,13 @@ import java.util.Scanner; // Import the Scanner class to read text files
  * ---------------------------------------------------------
  * 3. If any dumbass has filled it out improperly (typed their
  * major/courses in a weird way), make those corrections.
+ * Key things to look for are unnecessary whitespaces after
+ * text (Google Sheets has a convenient "remove whitespaces"
+ * feature), lack of space in course code, different spellings
+ * for same major (e.g. Business Economics vs. 
+ * Business/Economics (This example brings up a very important
+ * point: make sure that there are absolutely no slashes (/) in 
+ * anyone's responses, this will not fly.))
  * ---------------------------------------------------------
  * 4. Find a way to concatenate all fields with a colon separator.
  * I did this by using the Excel equation:
@@ -44,7 +51,9 @@ import java.util.Scanner; // Import the Scanner class to read text files
  * 6. Create a new directory in the repository (which you should 
  * have copied remotely), and name it after the current quarter. 
  * e.g. fa22, wi24, sp26 would be for Fall 2022, Winter 2024, and
- * Spring 2026, respectively.
+ * Spring 2026, respectively. Make sure to change the variable
+ * "quarter" in this program to reflect this, otherwise the courses
+ * will be added to an old quarter, which would kind of suck.
  * -----------------------------------------------------------
  * 7. Paste the "raw.txt" file with the member info into this
  * quarter's directory.
@@ -61,15 +70,40 @@ import java.util.Scanner; // Import the Scanner class to read text files
  * members' courses/majors have been matched! Rejoice. Contact
  * author if any issues arise.
  * -----------------------------------------------------------
+ * Final notes:
+ * I realize that this code is not wildly efficient. I made this
+ * on a whim on a Friday afternoon in a boring African-American
+ * Studies class, remembering how pissed off I was when I tried
+ * to match people's courses manually. This was never intended
+ * to be my finest piece of code, rather something to get the 
+ * chapter by and introduce course matching, something that a
+ * Sigma should have done many years if not for the acceptance 
+ * of mediocrity that somehow exists for many positions on Zeta.
  * 
- * Author: Max Rivett (mrivett@ucsd.edu, maxnrivett@gmail.com if this somehow survives that long)
+ * If a future Sigma is a better programmer than I am, something 
+ * that I was to lazy to add was CSV reading capabilities. This 
+ * would save time by effectively ridding the above guide of 
+ * Steps 3-5. Instead, however, I chose to take the easier route
+ * by making the program read text lines, as changing this would
+ * mean that most of the program would have to change; the colon
+ * concatenation is kind of cute anyways.
+ * 
+ * Feel free to change the "Last Used" below for every use, will
+ * be interesting to see how long this program survives, if it 
+ * does.
+ * 
+ * 
+ * Author: Max Rivett (mrivett@ucsd.edu,
+ * maxnrivett@gmail.com if this somehow survives that long)
  * First Created: October 13, 2022 (Max Rivett)
- * Last Updated: October 16, 2022 (Max Rivett)
+ * Last Updated (Code): October 16, 2022 (Max Rivett)
+ * Last Used (to Course Match): October 16, 2022 
  */
 public class Matcher {
 
   public static String quarter = "fa22"; // CHANGE THIS EVERY QUARTER
-  // remember to make new directories for new quarters too
+  // remember to make new directories for new quarters too, 
+  // named the same way that this variable is
 
   public static void main(String[] args) {
     int numStudents = countFileLines();
@@ -199,7 +233,7 @@ public class Matcher {
            * use this to see who has taken a course (and when) not just who is taking 
            * a course.
            */
-          String text = tmp.substring(0, tmp.indexOf(":")) + " (" + tmp.substring(tmp.indexOf(":")+1, tmp.indexOf(":", tmp.indexOf(":") + 1)) + ")" + quarter.toUpperCase();
+          String text = tmp.substring(0, tmp.indexOf(":")) + " (" + tmp.substring(tmp.indexOf(":")+1, tmp.indexOf(":", tmp.indexOf(":") + 1)) + ") " + quarter.toUpperCase();
           writeToMajorFile(major, text);
         }
       }
@@ -245,7 +279,7 @@ public class Matcher {
            * use this to see who has taken a course (and when) not just who is taking 
            * a course.
            */
-            String text = tmp.substring(0, tmp.indexOf(":")) + " (" + tmp.substring(tmp.indexOf(":")+1, tmp.indexOf(":", tmp.indexOf(":") + 1)) + ")" + quarter.toUpperCase();
+            String text = tmp.substring(0, tmp.indexOf(":")) + " (" + tmp.substring(tmp.indexOf(":")+1, tmp.indexOf(":", tmp.indexOf(":") + 1)) + ") " + quarter.toUpperCase();
             writeToCourseFile(course, text);
           } 
           thirdCut = thirdCut.substring(thirdCut.indexOf(":")+1, thirdCut.length());
