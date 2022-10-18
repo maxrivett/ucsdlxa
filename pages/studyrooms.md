@@ -38,3 +38,4 @@
 | Geisel 1040 | Medium      | Oct. 28, 12am-4am |
 | | <b>Week Six</b>                                  |
 | Geisel 721  | Large       | Oct. 31, 1-5pm |
+| Geisel 721  | Large       | Nov. 1, 12-4pm |
