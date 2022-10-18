@@ -34,7 +34,7 @@
     springSpace.dateFormat = "dddd, MMMM D, YYYY";
     springSpace.dateShortFormat = "MM/DD/YYYY";
     springSpace.timeFormat = "h:mma";
-    springSpace.timezone = 'America/Los_Angeles';
+    springSpace.timezone = 'Japan/Tokyo';
     springSpace.currency = "USD";
     springSpace.currencySymbol = "$";
 
