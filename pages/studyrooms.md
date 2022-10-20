@@ -39,3 +39,4 @@
 | | <b>Week Six</b>                                  |
 | Geisel 721  | Large       | Oct. 31, 1-5pm |
 | Geisel 721  | Large       | Nov. 1, 12-4pm |
+| Geisel 721  | Large       | Nov. 1, 6-9:30pm |
