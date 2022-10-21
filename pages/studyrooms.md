@@ -40,3 +40,5 @@
 | Geisel 721  | Large       | Oct. 31, 1-5pm |
 | Geisel 721  | Large       | Nov. 1, 12-4pm |
 | Geisel 721  | Large       | Nov. 2, 6-9:30pm |
+| Geisel 518  | Small       | Nov. 3, 11:30am-3:30pm |
+| Geisel 1040 | Medium      | Nov. 4, 12-4pm |
