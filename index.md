@@ -11,7 +11,7 @@
 ## Academic Weapon of the Week
 
 <!-- Photo is 400x400 pixels -->
-![Gabriel](/images/ali1.png)
+![Ali](/images/ali1.png)
 
 Ali was caught at Ault House putting that academic work in on the floor, making him this week's <b>Academic Weapon</b>.
 <br>
