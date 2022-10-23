@@ -15,7 +15,7 @@
 
 Ali was caught at Ault House putting that academic work in on the floor, making him this week's <b>Academic Weapon</b>.
 <br>
-<i>Last Week's Weapon: Galway</i>
+<i>Last Week's Weapon: Gabriel</i>
 
 
 <br>
