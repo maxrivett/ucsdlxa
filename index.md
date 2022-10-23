@@ -11,7 +11,7 @@
 ## Academic Weapon of the Week
 
 <!-- Photo is 400x400 pixels -->
-![Gabriel](/images/gabe1.png)
+![Gabriel](/images/ali1.png)
 
 Gabriel was nothing short of an <b>absolute academic tactical missile</b> this week, and showed this when he made the tough choice to grind out some Structural Engineering work instead of attending <i>ucsdpartycentral</i>'s "Summer Sendoff" as he had formerly planned.
 <br>
