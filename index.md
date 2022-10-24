@@ -47,4 +47,6 @@ Ali was caught at Ault House putting that academic work in on the floor, making 
 
 ## [Course Matching Form](https://docs.google.com/forms/d/1_8MgJCG7Sm3CP-yomvigv8RMfPkGkZNpNql6qLxFxdY/edit)
 
+See the course matches for this quarter [here](https://github.com/maxrivett/ucsdlxa/tree/main/coursematching/matches/fa22).
+
 <br>
