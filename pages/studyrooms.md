@@ -44,3 +44,4 @@
 | Geisel 1040 | Medium      | Nov. 4, 12-4pm |
 | | <b>Week Seven</b>                                  |
 | <b>Geisel 721</b>  | <b>Large</b>       | <b>Nov. 7, 1-5pm</b> |
+| <b>Geisel 721</b>  | <b>Large</b>       | <b>Nov. 8, 2-6pm</b> |
