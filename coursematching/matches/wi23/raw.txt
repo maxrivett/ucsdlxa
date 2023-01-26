@@ -35,7 +35,7 @@ Noel Gomez:nogomez@ucsd.edu:Political Science:POLI 104B:POLI 104U:POLI 110B:POLI
 Tyler May:tjmay@ucsd.edu:Mathematics and Computer Science:MATH 109:MATH 20D:MATH 180A::::
 Ibrahim Ali:ibali@ucsd.edu:General Biology:BILD 4:BIMM 116R:CHEM 40B:BICD 100:HIUS 137::
 Giulio Rambelli:grambelli1119@gmail.com:International Business:SIO 45:JAPN 150C:MMW 12:ERC 20:MATH 10A::
-Bambos Christoforou :cchristoforou@ucsd.edu:International Studies: Political Science:COMM 10:ANTH 21:HEIU 116C:MGT 16:::
+Bambos Christoforou :cchristoforou@ucsd.edu:International Studies Political Science:COMM 10:ANTH 21:HEIU 116C:MGT 16:::
 Erick Mendoza:e5mendoz@ucsd.edu:Business Economics:USP 150:MGT 160:::::
 Nickolas Dali:ndali@ucsd.edu:Business Economics:ECON 100A:ECON 120A:ECON 5::::
 Sven Neuschul:svenneuschul@gmail.com:Nanoengineering:MATH 18:MATH 20B:PHYS 2A:ETHN 2R:::
