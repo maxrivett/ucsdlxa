@@ -54,6 +54,11 @@ import java.util.Scanner; // Import the Scanner class to read text files
  * Spring 2026, respectively. Make sure to change the variable
  * "quarter" in this program to reflect this, otherwise the courses
  * will be added to an old quarter, which would kind of suck.
+ * To be extra clear: for Fall Quarters, change it to "fa" + the last
+ * two digits of the year For Winter, "wi" + last two digits. For
+ * Spring, "sp" + last two. (I don't anticipate this will ever be
+ * used for summer sessions, but if it is, set something to call
+ * those.)
  * -----------------------------------------------------------
  * 7. Paste the "raw.txt" file with the member info into this
  * quarter's directory.
@@ -98,7 +103,7 @@ import java.util.Scanner; // Import the Scanner class to read text files
  * maxnrivett@gmail.com if this somehow survives that long)
  * First Created: October 13, 2022 (Max Rivett)
  * Last Updated (Code): October 16, 2022 (Max Rivett)
- * Last Used (to Course Match): October 16, 2022 
+ * Last Used (to Course Match): January 26, 2023 
  */
 public class Matcher {
 
@@ -187,6 +192,7 @@ public class Matcher {
         break;
       } 
       String tmp = thirdCut.substring(0, thirdCut.indexOf(":"));
+      tmp = tmp.toUpperCase();
       al.add(tmp);
       thirdCut = thirdCut.substring(thirdCut.indexOf(":")+1, thirdCut.length());
     }
