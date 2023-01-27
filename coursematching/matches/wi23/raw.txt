@@ -9,7 +9,6 @@ Will Nam:willnam67@gmail.com:Neurobiology:PHYS 1B:PHYS 1BL:BIMM 100:GLBH 141:::
 Harrison Evans:Hevans@ucsd.edu:Business Economics:MGT 100:MGT 180:::::
 Jake Golden:jcgolden@ucsd.edu:Business Economics:MGT 16:MGT 18:BILD 22:MATH 4C:::
 Syler Sylvester:Ssylvester@ucsd.edu:Electrical Engineering:ECE 45:ECE 65:MATH 102:LISP 1B:LISP 1BX::
-Max Rivett:mrivett@ucsd.edu:Computer Science:CHEM 11:CSE 100:CSE 105:PHYS 2A:::
 Krithin Ramakrishna:Krithin.ramakrishna@gmail.com:Business Economics:ECON 100B:ECON 5:MGT 160:MGT 180:ECON 168::
 Nikolas Malek:nmalek@ucsd.edu:Cognitive Science:MATH 18:COGS 1:DOC 2::::
 Mohammad Abou abbas:Mabouabbas@ucsd.edu:Human Biology:BIPN 152:OCHEM 40B:PYSCH 1B:PYSCH 1BL:BILD 2::

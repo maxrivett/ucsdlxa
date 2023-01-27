@@ -102,7 +102,7 @@ import java.util.Scanner; // Import the Scanner class to read text files
  */
 public class Matcher {
 
-  public static String quarter = "w23"; // CHANGE THIS EVERY QUARTER
+  public static String quarter = "wi23"; // CHANGE THIS EVERY QUARTER
   // remember to make new directories for new quarters too, 
   // named the same way that this variable is
 
@@ -315,6 +315,7 @@ public class Matcher {
     public static void createCourseFile(String filename) {
       try {
         File myObj = new File("matches/" + quarter + "/courses/" + filename);
+        System.out.println("Created " + filename + " successfully. " + myObj.exists());
         if (myObj.createNewFile()) {
           // System.out.println("File created: " + myObj.getName());
         } else {
