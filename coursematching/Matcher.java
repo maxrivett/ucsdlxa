@@ -315,7 +315,6 @@ public class Matcher {
     public static void createCourseFile(String filename) {
       try {
         File myObj = new File("matches/" + quarter + "/courses/" + filename);
-        System.out.println("Created " + filename + " successfully. " + myObj.exists());
         if (myObj.createNewFile()) {
           // System.out.println("File created: " + myObj.getName());
         } else {
