@@ -107,7 +107,7 @@ import java.util.Scanner; // Import the Scanner class to read text files
  */
 public class Matcher {
 
-  public static String quarter = "wi23"; // CHANGE THIS EVERY QUARTER
+  public static String quarter = "sp23"; // CHANGE THIS EVERY QUARTER
   // remember to make new directories for new quarters too, 
   // named the same way that this variable is
 
@@ -278,7 +278,7 @@ public class Matcher {
           } else if (thirdCut.equals(":")) {
             break;
           } 
-          if (thirdCut.substring(0,thirdCut.indexOf(":")).equals(course)) {
+          if (thirdCut.substring(0,thirdCut.indexOf(":")).toUpperCase().equals(course.toUpperCase())) {
           /*
            * The text string that will be outputted includes the quarter at the end.
            * This was done intentionally by original creator so that when this 
@@ -287,7 +287,7 @@ public class Matcher {
            * a course.
            */
             String text = tmp.substring(0, tmp.indexOf(":")) + " (" + tmp.substring(tmp.indexOf(":")+1, tmp.indexOf(":", tmp.indexOf(":") + 1)) + ") " + quarter.toUpperCase();
-            writeToCourseFile(course, text);
+            writeToCourseFile(course.toUpperCase(), text);
           } 
           thirdCut = thirdCut.substring(thirdCut.indexOf(":")+1, thirdCut.length());
         }
