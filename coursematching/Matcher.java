@@ -54,6 +54,11 @@ import java.util.Scanner; // Import the Scanner class to read text files
  * Spring 2026, respectively. Make sure to change the variable
  * "quarter" in this program to reflect this, otherwise the courses
  * will be added to an old quarter, which would kind of suck.
+ * To be extra clear: for Fall Quarters, change it to "fa" + the last
+ * two digits of the year For Winter, "wi" + last two digits. For
+ * Spring, "sp" + last two. (I don't anticipate this will ever be
+ * used for summer sessions, but if it is, set something to call
+ * those.)
  * -----------------------------------------------------------
  * 7. Paste the "raw.txt" file with the member info into this
  * quarter's directory.
@@ -98,11 +103,11 @@ import java.util.Scanner; // Import the Scanner class to read text files
  * maxnrivett@gmail.com if this somehow survives that long)
  * First Created: October 13, 2022 (Max Rivett)
  * Last Updated (Code): October 16, 2022 (Max Rivett)
- * Last Used (to Course Match): October 16, 2022 
+ * Last Used (to Course Match): January 26, 2023 
  */
 public class Matcher {
 
-  public static String quarter = "w23"; // CHANGE THIS EVERY QUARTER
+  public static String quarter = "sp23"; // CHANGE THIS EVERY QUARTER
   // remember to make new directories for new quarters too, 
   // named the same way that this variable is
 
@@ -187,6 +192,7 @@ public class Matcher {
         break;
       } 
       String tmp = thirdCut.substring(0, thirdCut.indexOf(":"));
+      tmp = tmp.toUpperCase();
       al.add(tmp);
       thirdCut = thirdCut.substring(thirdCut.indexOf(":")+1, thirdCut.length());
     }
@@ -272,7 +278,7 @@ public class Matcher {
           } else if (thirdCut.equals(":")) {
             break;
           } 
-          if (thirdCut.substring(0,thirdCut.indexOf(":")).equals(course)) {
+          if (thirdCut.substring(0,thirdCut.indexOf(":")).toUpperCase().equals(course.toUpperCase())) {
           /*
            * The text string that will be outputted includes the quarter at the end.
            * This was done intentionally by original creator so that when this 
@@ -281,7 +287,7 @@ public class Matcher {
            * a course.
            */
             String text = tmp.substring(0, tmp.indexOf(":")) + " (" + tmp.substring(tmp.indexOf(":")+1, tmp.indexOf(":", tmp.indexOf(":") + 1)) + ") " + quarter.toUpperCase();
-            writeToCourseFile(course, text);
+            writeToCourseFile(course.toUpperCase(), text);
           } 
           thirdCut = thirdCut.substring(thirdCut.indexOf(":")+1, thirdCut.length());
         }
