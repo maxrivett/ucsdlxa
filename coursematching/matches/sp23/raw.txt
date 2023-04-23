@@ -1,0 +1,48 @@
+Jake Golden:jcgolden@ucsd.edu:Business Economics:TDGE 10:MATH 10A:ECON 1::::
+Sardor Abdumanapov:sabdumanapov@ucsd.edu:Sociology:PHIL 10:DOC 3:SOCI 30::::
+Noel Gomez:nogomez@ucsd.edu:Political Science:POLI 122:SOCI 146:PHIL 50:POLI 104D:::
+Gabriel Rogers:g1rogers@ucsd.edu:Structural Engineering:SE 151B:SE 150B:SE 140B::::
+Max Rivett:mrivett@ucsd.edu:Computer Science:CSE 101:CSE 110:CSE 191:POLI 142D:::
+Sven Neuschul:svneuschul@ucsd.edu:NanoEngineering:MATH 20C:PHYS 2B:SYN 1::::
+Jacob Gil:jrgil@ucsd.edu:Human Biology:BIMM 120:CHEM 167:CHEM 118:BICD 140:::
+Daniel Ramirez:dar005@ucsd.edu:Mathematics and Computer Science:MATH 154:COGS 9:COGS 118A::::
+Sebastian Padgett:spadgett@ucsd.edu:International Business:ECON 4:INTL 102:PHIL 50:MGT 103:::
+Austin Calza:acalza@ucsd.edu:Cognitive Science:COGS 100:COGS 107A:COGS 14B:MGT 103:CSE 20::
+Henry Wang:hew006@ucsd.edu:Biochemistry:CAT 3:MATH 10C:CHEM 7LM::::
+Ali Aljoher:aaljoher@ucsd.edu:Business Economics:ECON 168:ECON 100B:MGT 162::::
+Georgio Ruffato:gruffato@ucsd.edu:International Business:INTL 101:INTL 102:ECON 4:MCWP 50:::
+Robin Shan:zshan@ucsd.edu:Business Economics:ECON 100B:MGT 132:MGT 133:MGT 160:::
+Syler Sylvester:ssylvester@ucsd.edu:Electrical Engineering:ECE 100:ECE 101:ECE 171A:LISP 1C:LISP 1CX::
+Srihan Basvapatri:sbasvapatri@ucsd.edu:NanoEngineering:PSYC 60:PHIL 27:DSC 10:COGS 9:::
+Will Nam:vnam@ucsd.edu:Neurobiology:BIPN 140:MATH 11:PHYS 1C:PHYS 1CL:::
+Sanil Sharma:sas024@ucsd.edu:General Biology:PSYC 60:MMW 13:AAS 10:FMPH 40:::
+Jordan Lambino:jlambino@ucsd.edu:Data Science:DSC 30:PHYS 13:COGS 14B:MATH 20C:::
+Dhanush Raja:draja@ucsd.edu:Business Economics:MGT 162:ECON 110B:ECON 120B:TDGE 124:::
+Finn Espinoza:fiespinoza@ucsd.edu:Mathematics and Applied Science:MATH 20C:MATH 18:DOC 3::::
+Bambos Christoforou:cchristoforou@ucsd.edu:International Studies Poli Sci:POLI 142D:MMW 15:INTL 101:INTL 102:::
+Carlos Nemeh:cnemeh@ucsd.edu:Human Biology:CHEM 6C:CHEM 7LM:BILD 3:CAT 3:::
+Gabriel Glasgow:gglasgow@ucsd.edu:ICAM Music:ESYS 10:GLBH 20:VIS 41:MUS 4:::
+Vladimir :vrubtsov@ucsd.edu:Mechanical Engineering:MGT 164:MGT 172:MAE 101C:MAE 143B:::
+Tyler May:tjmay@ucsd.edu:Mathematics and Computer Science:MATH 154:MATH 170A:MATH 20E:MUS 17:::
+Henry Kraft:hkraft@ucsd.edu:Business Economics:MGT 189:MGT 180:ECON 120B:MGT 119:::
+Cole Hazelbaker:chazelbaker@ucsd.edu:Political Science:BILD 42:POLI 11D:POLI 30D:MUS 7:::
+Max Salvetti:msalvetti@ucsd.edu:Chemical Engineering:MATH 20C:PHYS 2B:CHEM 6C:DOC 3:::
+Giulio:grambelli@ucsd.edu:International Business:INTL 102:MMW 13:MUS 17:SIO 10:::
+Rohan Rangarajan:rrangarajan@ucsd.edu:Business Economics:ECON 100B:ECON 120B:MGT 164::::
+Krithin Ramakrishna:kramakrishna@ucsd.edu:Business Economics:ECON 110B:SIO 35:MUS 7:MUS 15:POLI 103A:POLI 108:
+Dominic Colucci:dcolucci@ucsd.edu:Computer Engineering:CSE 12:CSE 15L:DOC 3:PHYS 2B:::
+Diego Williams:ddw004@ucsd.edu:Mathematics and Computer Science:MATH 20C:MATH 18:MMW 13:CSE 8A:::
+Madhav Alapati:malapati@ucsd.edu:Computer Science:CSE 21:CSE 15L:CSE 12:DOC 3:::
+Wei Gao:weg034@ucsd.edu:Mathematics and Computer Science:MATH 181A:MATH 170C:CSE 101:HIEU 151:PHIL 15::
+Ian McGregor:imcgregor@ucsd.edu:NanoEngineering:MATH 18:CHEM 6C:PHYS 2A:SYN 1:::
+Benjamin Scheerger:bscheerger@ucsd.edu:Cognitive Science with Machine Learning and Neurospecialization:MATH 20C:SOCI 30:VIS 10:SYN 1:::
+Nickolas Dali:ndali@ucsd.edu:Business Economics:ECON 100B:ECON 120B:MGT 181:SOCI 117:::
+Markus Gokan:mgokan@ucsd.edu:Mechanical Engineering:MAE 107:MAE 105:MAE 131A::::
+Eduardo Sanchez:eds002@ucsd.edu:Data Science:MUS 17:SIO 10:MMW 13::::
+Atharva Kedia:atkedia@ucsd.edu:Mathematics and Computer Science:MATH 20C:ECE 35:PHYS 2B:CSE 12:::
+Nima Pourafzal:npourafzal@ucsd.edu:Chemical Engineering:MUS 7:CHEM 41C:CENG 113::::
+Brenden Warren:btwarren@ucsd.edu:Business Economics:ECON 100A:ECON 5:MGT 119:MGT 162:MATH 10C::
+Mason Faust:mfaust@ucsd.edu:Bioengineering:BENG 112B:BENG 172:BENG 103B:BENG 187A:COGS 155::
+Lukas Junn:ljunn@ucsd.edu:Cognitive Science with a Specialization in Design and Interaction:VIS 159:COGS 14B:COGS 17:COGS 1:::
+Nikolas Malek:nmalek@ucsd.edu:Cognitive Science:DOC 3:LTEN 27:MUS 4:POLI 110C:::
+HeeJae Choi:hec008@ucsd.edu:Economics:ECON 164:ECON 132:ECON 151:PHIL 10:::

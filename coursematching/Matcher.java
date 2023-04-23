@@ -61,7 +61,8 @@ import java.util.Scanner; // Import the Scanner class to read text files
  * those.)
  * -----------------------------------------------------------
  * 7. Paste the "raw.txt" file with the member info into this
- * quarter's directory.
+ * quarter's directory, and create two new directories within:
+ * "courses" and "majors".
  * -----------------------------------------------------------
  * 8. From the command line, enter the "coursematching" directory 
  * (using command line commands like "cd this_directory", search
