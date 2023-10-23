@@ -1,0 +1,56 @@
+Tyler May:tjmay@ucsd.edu:Mathematics - Computer Science:CSE 100:CSE 105:MATH 103A::::
+Nikolas Malek:nmalek@ucsd.edu:Cognitive Science:COGS 9:COGS 18:COGS 100::::
+Jake Golden:jcgolden@ucsd.edu:Business Economics:MGT 5:MATH 10B:LISP 1BX::::
+Nick Dali:ndali@ucsd.edu:Business Economics:MGT 103:MGT 162R:MGT 164:MGT 189:::
+Ethan Butler-VanderLinden:ebutlervanderlinden@ucsd.edu:International Business:MGT 103:MGT 181:MGT 172:INTL 102:::
+Quinn Brandt:Qbrandt@ucsd.edu:Data Science:DSC 40B:DSC 80:MGT 103:HIEU 116B:::
+Austin Calza:acalza@ucsd.edu:Cognitive Science:MATH 180A:CSE 11:COGS 108:MGT 171R:BIPN 145::
+Sven Neuschul:svenneuschul@gmail.com:NanoEngineering:MATH 20D:PHYS 2C:SYN 2R:NANO 15R:::
+HeeJae Choi:hec008@ucsd.edu:Economics:PHIL 142:PHIL 167:PHIL 169::::
+Max Salvetti:Mdsalvetti@gmail.com:Chemical Engineering:MATH 20D:PHYS 2C:CHEM 41A:CENG 100:::
+Diego Williams:ddw004@ucsd.edu:Mathematics - Computer Science:MATH 20D:MATH 180A:CSE 11:HIEU 116B:::
+Madhav Alapati:Mdog1724@gmail.com:Computer Science:CSE 100R:MATH 183:TDGE 131:ENG 100D:HIEA 112::
+Dominic Colucci:dcolucci@ucsd.edu:Computer Engineering:CSE 20:MATH 20C:PHYS 2C:TDGE 10:::
+Jacob Gil:jacobgil64@gmail.com:Pharmacology Chemistry:CHEM 152:BIMM 143:BIEB 174:BICD 130:::
+Georgio Ruffato:gruffato@ucsd.edu:International Business:MGT 103:MGT 164:HIEU 116B:LISP 1B:LISP 1BX::
+Kian Haghnazari:khaghnazari@ucsd.edu:NanoEngineering:MMW 14:NANO 111:MGT 103:MATH 20E:::
+Garv Kapoor:gakapoor@ucsd.edu:Business Economics:MGT 16:MGT 18:ECON 1::::
+Finn Espinoza:fiespinoza@ucsd.edu:Mathematics:MATH 18:MATH 20D:LTEN 27::::
+Jordan Lambino:jlambino@ucsd.edu:Data Science:DSC 40A:ECON 120A:SYN 2:MUS 15:::
+Giulio Rambelli:grambelli@ucsd.edu:International Business:MMW 14:INTL 101:POLI 133A::::
+Johnathan Lock:Jrlock@ucsd.edu:Data Science:DSC 10:MATH 20A:BILD 10::::
+Ivan Ijzerman:iijzerman@ucsd.edu:Mechanical Engineering:MAE 3:CHEM 6A:MATH 20C:ECON 1:::
+Dawson koerper:Dkoerper@ucsd.edu:International Business:MGT 103:LTSP 2A:MMW 121::::
+Taj Gadiraju:tgadiraju@ucsd.edu:Bioengineering:MATH 20E:PHYS 2C:PHYS 2CL:POLI 28:CHEM 40A::
+Ian Smith:iasmith@ucsd.edu:Molecular and Cell Biology:BILD 4:CHEM 6A :MATH 20A:MMW 11:::
+Iden Rumi:Irumi@ucsd.edu:Economics:CHEM 4:DOC 1:MATH 20B:ECON 1:::
+Oliver Rhodes:orhodes@ucsd.edu:Ecology, Behavior, and Evolution:PHYS 1A:PHYS 1A:HUM 3::::
+Sam Andre:sandre@ucsd.edu:Mechanical Engineering:CHEM 6A:MATH 18:CAT 1::::
+Max Rivett:mrivett@ucsd.edu:Computer Science:CSE 140:CSE 140L:CSE 134B:COGS 1:MATH 18::
+Amogh Gowda:aagowda2003@gmail.com:Mathematics and Economics:ECON 100A:MATH 109:DSC 40A:HILD 7A:::
+Mihir Shah:m8shah@ucsd.edu:Business Economics:MGT 103:ECON 120A:ECON 100A:HILD 7A:::
+Henry Wang:hew006@ucsd.edu:Biochemistry:CHEM 41A:MATH 11:PHYS 1AL:LTWR 8B:::
+Maximilian  Shutze:Mshutze@ucsd.edu:Business Economics:MGT 164:MGT 45:HILD 10:ECON 120B:::
+Zubin Sannakkayala:zsannakkayala@ucsd.edu:Data Science:DSC 10:MATH 20C:COGS 9:ECON 1:::
+Vlad:Vladimir.rubtsov17@gmail.com:Mechanical Engineering:MAE 108:MAE 150:MAE 154:MAE 190:::
+Aaron Lee:aal019@ucsd.edu:Communication:COMM100A:COMM 10 :MGT 103::::
+Ethan Lee:etl010@ucsd.edu:Cognitive Science:MATH 10A:ECON 1:AWP 3::::
+Srihan Basvapatri:sbasvapatri@ucsd.edu:Cognitive Science:COGS 1:COGS 17:POLI 28:CSE 8A:CSE 20::
+Dylan Chamberlin:Dychamberlin@ucsd.edu:Political Science:POLI 12D:MMW 11:ECON 2 ::::
+Justin Young:juy030@ucsd.edu:Business Psychology:MGT 18:MGT 3:COMM 10::::
+Daniel Ivison:daivison@ucsd.edu:Classical Sudies:ECON 1:MATH 10B:COMM 20::::
+Tyler Truscott:tylertruscott21@gmail.com:Marine Biology:MATH 3C:CHEM 6A:BILD 3::::
+Sardor Abdumanapov:Sabdumanapov@ucsd.edu:Business Economics :MGT 16 :ECON 1 :CHEM 4 :MATH 3C :::
+Syler Sylvester:ssylvester@ucsd.edu:Electrical and Computer Engineering:ECE 109:ECE 174:ECE 171B:LISP 1D:LISP 1DX:NIGGA 420:
+Ben Scheerger:bscheerger@ucsd.edu:Cognitive Science:MATH 20E:SYN 2R:COGS 1:COGS 17:::
+Sanil Sharma:sas024@ucsd.edu:General Biology:ANTH 4:CHEM 6A:BILD 2::::
+Atharva Kedia:Atkedia@ucsd.edu:Mathematics - Computer Science:MATH 20D:ECE 45:CSE 15L:CSE 20:CSE 12:ECON 3:
+Daniel Ramirez:dar005@ucsd.edu:Mathematics - Computer Science:COGS 100:COGS 101A:COGS 110::::
+Spencer Parks:spparks@ucsd.edu:Neurobiology :BILD 1:CHEM 6A:BILD 4:MMW 11:::
+Jack Gallagher:j4ckga11agher@gmail.com:Political Science :MMW 11:PHIL10:USP 1::::
+Muthu Panchanatham:mpanchanatham@ucsd.edu:Nuerobiology:MATH 20C:BIEB 146:CHEM 40A:CHEM 7L:::
+Ian McGregor:imcgregor@ucsd.edu:NanoEngineering:MATH 20E:CHEM 7L:NANO 102:Nano 20L:PHYS 2B::
+Dhanush Raja:draja@ucsd.edu:Business Economics:DSC 10:COGS 9:MATH 18:MGT 172R:::
+Naseem Moussa:nmoussa@ucsd.edu:Neurobiology:BIPN 140:BICD 100:ANSC 121::::
+Sam Fisher:s4fisher@ucsd.edu:General Biology:MATH 10A:CHEM 6A :MGT 18:BILD 4:::
+Andras Lengyel:alengyel@ucsd.edu:Real Estate and Development:MMW 14:USP 124:MGT 187::::
