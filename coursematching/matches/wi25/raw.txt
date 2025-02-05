@@ -20,7 +20,7 @@ Oskar:osyu@ucsd.edu:Structural Engineering:PHYS 2B:SE 9:MATH 20D:CHEM 6B:CHIN 20
 John lock:jrlock@ucsd.edu:Data Science:DSC 30:DSC 40A:CHEM 11:LISP 1C:LISP 1CX::
 Patrick Finnan:pfinnan@ucsd.edu:Business Economics:MGT 45:HILD 7A:POLI 10D:CCE 1:::
 Andras Lengyel:andrislengyel0@gmail.com:Real Estate and Development:MGT 137:MGT 176:::::
-Iden:irumi@ucsd.edu:Economics:ECON 100B:ECON 110B:ECON 120A:VIZ 22:::
+Iden:irumi@ucsd.edu:Economics:ECON 100B:ECON 110B:ECON 120A:VIS 22:::
 Yaro:ybilaniuk@ucsd.edu:Neurobiology:BILD 2:CHEM 40A:EDS 23:PHYS 1AL:PHYS 1B:COGS 18:
 Max Salvetti:mdsalvetti@gmail.com:Chemical Engineering:CENG 101B:CENG 114:BILD 28:ETHN 2R:::
 Chance:chg008@ucsd.edu:Human Biology:PHYS 1B:CHEM 40A:HILD 7A:BILD 1:PHYS 1BL::

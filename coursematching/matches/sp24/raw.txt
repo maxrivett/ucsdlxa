@@ -1,0 +1,25 @@
+awadhwani@ucsd.edu:Anshul Wadhwani:Biochemistry:PSYC 172:PHYS 1C:PHYS 1CL::::
+zsannakkayala@ucsd.edu:Zubin Sannakkayala:Data Science:DSC 30:DSC 40A:SYN 1:ECON 120A:::
+amgowda@ucsd.edu:Amogh Gowda:Math-Econ:MATH 180A:ECON 100C:MGT 180:MMW 13:::
+jcgolden@ucsd.edu:Jake Golden:Business Psychology:LISP 1D:LISP 1DX:MMW 13:BILD 3:::
+mdsalvetti@gmail.com:Max Salvetti:Chemical Engineering:CENG 113:CENG 160:MATH 20E:COGS 11:::
+tytruscott@ucsd.edu:Tyler Truscott:Marine Biology:MATH 10A:BILD 2:MGT 16::::
+ndali@ucsd.edu:Nick Dali:Business Economics:MGT 180:MGT 183:MGT 172:SPAN 1D:::
+mrivett@ucsd.edu:Max Rivett:Computer Science:CSE 132B:CSE 191:ECON 120A:ENG 100DR:::
+OPIOTTER@UCSD.EDU:piotter olin:Political Science:POLI 142D:POLI 108:MATH 10B:POLI 104U:POLI 104P:EDS 190:
+rupalekar@ucsd.edu:Rohan Upalekar:Mathematics - Computer Science:MATH 109:MATH 187A:COGS 1:COMM 10:::
+spadgett@ucsd.edu:Sebastian Padgett:International Business:MGT 187:MGT 106:MGT 172::::
+pmaloney@ucsd.edu:Patrick Maloney:Mathematics - Computer Science:CSE 100:CSE 105:MATH 103B::::
+tjmay@ucsd.edu:Tyler May:Math:CSE 101:MATH 187A:MATH 181A::::
+mtakasugi@ucsd.edu:Matthew Takasugi:Political Science:POLI 13DR:SIO 10:DOC 3:AAS 10:::
+sandre@ucsd.edu:Sam Andre:Mechanical Engineering:MAE 3:MAE 125:CAT 3:PHYS 2C:::
+rir007@ucsd.edu:Ricardo Rodriguez:Aerospace Engineering:MAE 131A:MAE 30B:MAE 101B::::
+imcgregor@ucsd.edu:Ian McGregor:Nanoengineering:MGT 16:NANO 108:NANO 112:PHYS 2D:::
+Hkraft&ucsd.edu:Henry Kraft:Business Economics:MGT 100:USP 25:ECON 110B:USP 175:::
+Bpyo@ucsd.edu:Brandon Pyo:Business Psychology:COGS 18:CHEM 11:ETHN 3R::::
+devanvelji@gmail.com:Devan Velji:Math-Econ:ECON 120C:ECON 100B:MATH 109::::
+ybilaniuk@ucsd.edu:yaro:Neurobiology:BILD 3:MATH 11:COGS 11:CHEM 6C:DOC 3::
+sas024@ucsd.edu:Sanil Sharma:Business Psychology:MATH 10A:COGS 18:COGS 14A:MMW 15:::
+sbasvapatri@ucsd.edu:Srihan Basvapatri:Cognitive Science:CSE 20:COGS 107A:COGS 101A:COGS 100:CSE 12::
+bscheerger@ucsd.edu:Benjamin Scheerger:Cognitive Science:CSE 20:CSE 30:MGT 16:COGS 14B:::
+ebutlervanderlinden@ucsd.edu:Ethan BV:International-Business:MGT 185:MGT 112:MGT 164:HIEU 183:::

@@ -1,0 +1,24 @@
+alexaslanian1@gmail.com:Alex Aslanian::ECON 1:MGT 18:MATH 11:MATH 20C:::
+sbasvapatri@ucsd.edu:Srihan Basvapatri::CSE 29:CSE 30:CSE 21:COGS 108:COGS 101B::
+sas024@ucsd.edu:Sanil Sharma::PSYC 100:PSYC 105:USP 143::::
+khaghnazari@ucsd.edu:Kian Haghnazari::NANO 119:NANO 148:NANO 20L:NANO 110:::
+bscheerger@ucsd.edu:Ben Scheerger::COGS 100:COGS 101A:MATH 180A:COGS 13:::
+amgowda@ucsd.edu:Amogh Gowda::MATH 184:ECON 120B:HIUS 112:MGT 187:::
+zsannakkayala@ucsd.edu:Zubin Sannakkayala::DSC 80:DSC 40B:LIGN 17:SYN 2:::
+pmaloney@ucsd.edu:Patrick Maloney::MATH 170A:CSE 101:VIS 60::::
+dcolucci@ucsd.edu:Dominic Colucci::MGT 172:ETHN 144M:CSE 103:ECE 45:EDS 124AR::
+Mabouabbas@ucsd.edu:Mohammad Abou Abbas::BICD 145:BIMM 194:CAT 125:PYSC 101:TDPR 6::
+gruffato@ucsd.edu:Georgio Ruffato::SIO 30:MGT 106:MGT 121A:POLI 120H:::
+m8shah@ucsd.edu:Mihir Shah::MGT 108R:ENVR 30:ECON 120B:MGT 160:::
+spparks@ucsd.edu:Spencer Parks::BIPN 100:BICD 100:CHEM 40A:PHYS 1AL:HIUS 112::
+acalza@ucsd.edu:Austin Calza::CSE 100:CSE 152A:CSE 158:MGT 185:MGT 112::
+Mdsalvetti@gmail.com:Max Salvetti::CENG 101A:CENG 170:TDGE 124::::
+mrivett@ucsd.edu:Max Rivett::CSE 158:SIO 179:MGT 162:EDS 124BR:::
+imcgregor@ucsd.edu:Ian McGregor::NANO 111:NANO 148:SYN 2:NANO 175:::
+rupalekar@ucsd.edu:Rohan Upalekar::MATH 103A:MATH 154:MATH 173A::::
+bvissa@ucsd.edu:Barghav Vissa::MATH 10B:ECON 1:CHEM 6A:BILD 4:::
+andrislengyel0@gmail.com:Andras Lengyel::POLI 108:EDS 117:USP 185A::::
+zachnorcia@gmail.com:Zach Norcia::COGS 18:COGS 18:MMW 14:CHEM 6A:::
+gakapoor@ucsd.edu:Garv Kapoor::MUS7:SYN 2:MGT 172:MGT 108R:::
+tylertruscott21@gmail.com:Tyler Truscott::ASTR 1:MATH 10B:MGT 71:HUM 1:::
+cnemeh14@gmail.com:Carlos Nemeh::CAT 125:BIBC 102:ANBI 100::::

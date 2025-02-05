@@ -108,7 +108,7 @@ import java.util.Scanner; // Import the Scanner class to read text files
  */
 public class Matcher {
 
-  public static String quarter = "wi25"; // CHANGE THIS EVERY QUARTER
+  public static String quarter = "sp24"; // CHANGE THIS EVERY QUARTER
   // remember to make new directories for new quarters too, 
   // named the same way that this variable is
 
