@@ -1,0 +1,39 @@
+Zach Norcia:znorcia@ucsd.edu:Cognitive Science:ECON 4:PSYC 102:PSYC 60:MUS 127:::
+Mihir Shah:m8shah@ucsd.edu:Business Economics:MGT 100:ECON 110B:::::
+Max Rivett:mrivett@ucsd.edu:Computer Science:CSE 160:CSE 120:COGS 111::::
+Henry Wang:hew006@ucsd.edu:Business Economics:ECON 100B:ECON 5:MGT 175:BILD 62:::
+Luke:luke.f.newport@gmail.com:Mathematics and Computer Science:MATH 180A:CSE 11:DSC 10:TDGE 131:::
+Garv Kapoor:gakapoor@ucsd.edu:Business Economics:MGT 175:MGT 162R:MGT 45:ECON 110B:::
+Amogh:amgowda@ucsd.edu:Economics and Mathematics:MGT 45:MGT 189:ECON 100C:ECON 110B:EDS 117::
+Alex Aslanian:a4aslanian@ucsd.edu:Structural Engineering:SE 9:CCE 1:MATH 20D:PHYS 2A:::
+Anhad:atut@ucsd.edu:Pharmacological Chemistry:CHEM 6A:BILD 2:PH 40::::
+Tyler:tytruscott@ucsd.edu:Business Economics:HUM 2:MGT 45:MATH 10C:ECON 5:::
+Devan Velji:devanvelji@gmail.com:Economics and Mathematics:ECON 100C:MATH 180B:MATH 175:MATH 20C:PHYS 2B::
+Mac Birthistle:ebirthistle@ucsd.edu:History:ETHN 139:LIGN 17:HINE 125::::
+Joshua Chun:joshuachun213@gmail.com:Human Biology:CHEM 7L:BICD 100:PHYS 1C:PHYS 1CL:::
+Aiden Beltran:a4beltran@ucsd.edu:Real Estate and Development:CCE 1:ANTH 21:ECON 1:PHIL 65:::
+Aarman Sachdev:assachdev@ucsd.edu:Data Science:DSC 20:COGS 9:MATH 20B:MMW 12:::
+Zubin Sannakkayala:zsannakkayala@ucsd.edu:Data Science:DSC 100:DSC 106:MGT 151R:VIS 22:::
+Jad:jaisaac@ucsd.edu:Computer Science:CSE 20:CSE 29:CSE 12:DOC 2:::
+Callum Kuehn:cakuehn@ucsd.edu:Human Biology:MATH 10B:BILD 4:CHEM 6B:DOC 2:::
+Oskar:osyu@ucsd.edu:Structural Engineering:PHYS 2B:SE 9:MATH 20D:CHEM 6B:CHIN 20BM::
+John lock:jrlock@ucsd.edu:Data Science:DSC 30:DSC 40A:CHEM 11:LISP 1C:LISP 1CX::
+Patrick Finnan:pfinnan@ucsd.edu:Business Economics:MGT 45:HILD 7A:POLI 10D:CCE 1:::
+Andras Lengyel:andrislengyel0@gmail.com:Real Estate and Development:MGT 137:MGT 176:::::
+Iden:irumi@ucsd.edu:Economics:ECON 100B:ECON 110B:ECON 120A:VIZ 22:::
+Yaro:ybilaniuk@ucsd.edu:Neurobiology:BILD 2:CHEM 40A:EDS 23:PHYS 1AL:PHYS 1B:COGS 18:
+Max Salvetti:mdsalvetti@gmail.com:Chemical Engineering:CENG 101B:CENG 114:BILD 28:ETHN 2R:::
+Chance:chg008@ucsd.edu:Human Biology:PHYS 1B:CHEM 40A:HILD 7A:BILD 1:PHYS 1BL::
+Sebastian Padgett:spadgett@ucsd.edu:International Buisness:MGT 112:MGT 162:PHIL 138::::
+Esteban Velazquez:esvelazquez@ucsd.edu:Political Science:MMW 122:POLI 104B:POLI 104J::::
+Barghav Vissa:bvissa@ucsd.edu:Neurobiology:MATH 11:CHEM 6B:PH 40:BILD 1:ECON 3::
+Vishal Bharadwaj:vbharadwaj@ucsd.edu:Cognitive Science and Machine Learning:COGS 100:COGS 108:COGS 13:MATH 20C:::
+James Henry Hicks:jhhicks@ucsd.edu:Cognitive Science and Machine Learning:MATH 2:COGS 13:MGT 3:SIO 25:::
+Jesus Vazquez:j4vazquez@ucsd.edu:Biochemistry:MMW 12:ECON 1:CHEM 6C::::
+Ben:bscheerger@ucsd.edu:Cognitive Science and Machine Learning:VIS 83:COGS 101B:CSE 100::::
+Jake Golden:jcgolden@ucsd.edu:Business Psychology:PSYC 105:MGT 162R:EDS 126::::
+Prestyn Bates:prestynbates30@gmail.com:Real Estate and Development:USP 170:YOGA PRACTICES:MMW 12::::
+Rohan Upalekar:rupalekar@ucsd.edu:Mathematics and Computer Science:MATH 154:COGS 1:COGS 108:COGS 107B:::
+Barghav Vissa:bvissa@ucsd.edu:Neurobiology:MATH 11:ECON 3:CHEM 6B:BILD 1:PH 40::
+Patrick Maloney:pmaloney@ucsd.edu:Mathematics and Computer Science:MATH 187A:ECON 109:ECE 140A::::
+Ian McGregor:imcgregor@ucsd.edu:Nanoengineering:NANO 117:NANO 107:NANO 199:NANO 134:TDGE 25::
