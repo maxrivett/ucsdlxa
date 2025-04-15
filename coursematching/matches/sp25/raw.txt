@@ -1,0 +1,43 @@
+Ian McGregor:imcgregor@ucsd.edu:Lambda Chi Alpha:Nanoengineering:::NANO 199:NANO 103:NANO 115L::::
+Jad:jadjrisaac@gmail.com:Lambda Chi Alpha:Computer Science:::CSE 21:CSE 30:BILD 3:DOC 3:::
+Devan Velji:dvelj@ucsd.edu:Lambda Chi Alpha:Joint Mathematics-Economics::Marine Sciences:MATH 180C:ECON 132:SIO 135:PHYS 2C:::
+Henry Wang:hew006@ucsd.edu:Lambda Chi Alpha:Business Economics:Technology, Innovation, & Supply Chain::MGT 160:MGT 180:MGT 162R:LTWR 8A:::
+Vishal:vishalbharadwaj8797@gmail.com:Lambda Chi Alpha:Cognitive Science:::COGS 101A:COGS 150:MATH 18:COGS 107A:::
+Aiden Beltran:a4beltran@ucsd.edu:Lambda Chi Alpha:Real Estate and Development:::SIO 10:MGT 45:HILD 7B:USP 25:::
+Tyler Truscott:tytruscott@ucsd.edu:Lambda Chi Alpha:Business Economics:Business Analytics:Technology, Innovation, & Supply Chain:HUM 5:ECON 110B:ECON 120A:MGT 172:::
+Esteban Velazquez:esvelazquez@ucsd.edu:Lambda Chi Alpha:Political Science:::POLI 104Q:POLI 30D:POLI 121D:POLI 150A:::
+Kyler Wang:kylerw993@gmail.com:Lambda Chi Alpha:Business Economics:::DOC 3:MUS 6:ECON 120A::::
+Anshul Wadhwani:awadhwani@ucsd.edu:Lambda Chi Alpha:Public Health:::PH 50:PH 130:SYN 100:CHEM 41C:::
+Benjamin Scheerger:bscheerger@ucsd.edu:Lambda Chi Alpha:Cognitive Science:Computer Science::CSE 151A:MGT 103:COGS 107A:COGS 108:::
+Patrick Finnan:pfinnan@ucsd.edu:Lambda Chi Alpha:Business Economics:Political Science/Data Analytics:Philosophy:PHIL 50:MATH 20C:VIS 22::::
+Garv Kapoor:gakapoor@ucsd.edu:Lambda Chi Alpha:Business Economics:Technology, Innovation, & Supply Chain::ECON 100A:ECON 120A:ECON 5::::
+Jack Gallagher:j2gallagher@ucsd.edu:Lambda Chi Alpha:Political Science::Literatures in English:MMW 13:POLI 126AB:POLI 145C::::
+Oliver:orhodes@ucsd.edu:Lambda Chi Alpha:Psychology:::PSYC 100:BILD 2:CHEM 7L:LIFR 1D:LIFR 1DX::
+Josh Chun:joshuachun213@gmail.com:Lambda Chi Alpha:Human Biology:::BIPN 100:CCE 3:CHEM 40A::::
+Amogh Gowda:amgowda@ucsd.edu:Lambda Chi Alpha:Joint Mathematics-Economics:Finance:Business Analytics:ECON 164:MGT 151R:MGT 175:MGT 185:::
+Ivan O’Brien:ivanob360@gmail.com:Lambda Chi Alpha:Chemical Engineering:::LISP 1D:LISP 1DX:CENG 101C:MAE 119:CENG 160::
+Barghav Vissa:bvissa@ucsd.edu:Lambda Chi Alpha:Neurobiology:Business Economics:Finance:CHEM 6C:MATH 10C:MGT 16:BILD 2:BILD 3::
+Coltrane Gowan:cgowan@ucsd.edu:Lambda Chi Alpha:Data Science:Music Computing & the Arts::DSC 100:DSC 106:COGS 108:ECON 120A:::
+Finn Espinoza:firspinoza@ucsd.edu:Lambda Chi Alpha:Philosophy:::PHIL 112:PHIL 125:PHIL 120:PHIL 134:::
+Spencer Parks:spparks@ucsd.edu:Lambda Chi Alpha:Neurobiology:::CHEM 40B:CHEM 43A:PHYS 1C:PHYS 1CL:MUS 150::
+Iden Rumi:idenrumi@gmail.com:Lambda Chi Alpha:Economics:Finance:Business Analytics:MGT 187:ECON 100C:ECON 5:ETHN 30:::
+Prestyn Bates:prbates@ucsd.edu:Lambda Chi Alpha:Real Estate and Development:Urban Studies and Planning::USP 1:MMW 13:MGT 45::::
+Anhad Tut:atut@ucsd.edu:Lambda Chi Alpha:Pharmacological Chemistry:::BILD 4:BILD 3:SYN 1::::
+Rohan Upalekar:rupalekar@ucsd.edu:Lambda Chi Alpha:Mathematics—Computer Science::Cognitive Science:CSE 100:CSE 101:CSE 105:SYN 100:::
+Oskar:osyu@ucsd.edu:Lambda Chi Alpha:Cognitive Science::Finance:MATH 20E:COGS 1:COGS 13:MGT 12:::
+Max Rivett:mrivett@ucsd.edu:Lambda Chi Alpha:Computer Science:::CSE 127:LIGN 165:COGS 143:HINE 115:::
+Zubin Sannakkayala:zsannakkayala@ucsd.edu:Lambda Chi Alpha:Data Science:Mathematics:Business Analytics:DSC 102:DSC 161:MATH 20D:MGT 175:::
+Sebastian Padgett:spadgett@ucsd.edu:Lambda Chi Alpha:International Business:::INTL 190:PHIL 131:MGT 119::::
+Jake:jcgolden@ucsd.edu:Lambda Chi Alpha:Business Psychology:::PSYC 101:EDS 117:COGS 9::::
+Max Salvetti:mdsalvetti@ucsd.edu:Lambda Chi Alpha:Chemical Engineering:::CENG 101C:BENG 130:HILD 7B::::
+Gabriel Bortoni:gbortoni@ucsd.edu:Lambda Chi Alpha:Electrical Engineering:::ECE 17:ECE 65:HUM 5::::
+Luc Shoji:lshoji@ucsd.edu:Lambda Chi Alpha:Business Economics:::MATH 20C:MGT 16:MMW 13::::
+Brendan Nguyen:brn019@ucsd.edu:Lambda Chi Alpha:Mathematics—Computer Science:::MATH 180A:MATH 154:CCE 3:MGT 16:::
+Parth Choudhary:parthchoudhary2005@gmail.com:Lambda Chi Alpha:Neurobiology:Business::PHYS 1C:PHYS 1CL:BICD 100:BIPN 100:::
+yaro:ybilaniuk@ucsd.edu:Lambda Chi Alpha:Neurobiology:::BIPN 100:BIPN 140:CHEM 40A:PHYS 1C:PHYS 1BL::
+Srihan Basvapatri:sbasvapatri@ucsd.edu:Lambda Chi Alpha:Cognitive Science:Computer Science::MATH 20E:COGS 150:CSE 100:TDMV 138:::
+John Lock:jrlock@ucsd.edu:Lambda Chi Alpha:Business Psychology:Business Analytics:Accounting:LISP 1D:LISP 1DX:SIO 16:PSYC 60:COGS 18::
+Iden:irumi@ucsd.edu:Lambda Chi Alpha:Economics:Finance:Business Analytics:ECON 100C:MGT 187:ECON 5:ETHN 30:::
+Francesco Lombardi:francesco.m.lombardi@gmail.com:Lambda Chi Alpha:Business Economics:History::MGT 162:MGT 119:MMW 15:HIUS 114A:::
+Ethan Cheung:e3cheung@ucsd.edu:Lambda Chi Alpha:Human Biology:::LATI 10:VIS 21A:BILD 3:DOC 3:::
+Prestyn Bates:prbates@ucsd.edu:Lambda Chi Alpha:Real Estate and Development:::MGT 45:USP 1:MMW 13::::

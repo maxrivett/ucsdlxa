@@ -42,7 +42,7 @@ import java.util.Scanner; // Import the Scanner class to read text files
  * column, major in the D column, and courses in the columns E-J, 
  * in order. This should create a column that has data that looks 
  * like this:
- * Max Rivett:mrivett@ucsd.edu:Computer Science:CSE 21:CSE 30:AAS 10:HILD 7A:::
+ * Max Rivett:mrivett@ucsd.edu:Lambda:Computer Science:::CSE 21:CSE 30:AAS 10:HILD 7A:::
  * Notice how there are leftover colons at the end; leave those.
  * ----------------------------------------------------------
  * 5. Copy the data from this column you have created, and paste 
@@ -108,7 +108,7 @@ import java.util.Scanner; // Import the Scanner class to read text files
  */
 public class Matcher {
 
-  public static String quarter = "sp24"; // CHANGE THIS EVERY QUARTER
+  public static String quarter = "sp25"; // CHANGE THIS EVERY QUARTER
   // remember to make new directories for new quarters too, 
   // named the same way that this variable is
 
@@ -153,6 +153,82 @@ public class Matcher {
     for (int i = 0; i < courses.size(); i++) {
       matchCourse(studentInfo, numStudents, courses.get(i));
     }
+
+    // tracking code
+
+    // iterate through majors/courses and match
+    int maxMajorCount = 0;
+    String mostPopularMajor = "";
+    for (int i = 0; i < majors.size(); i++) {
+        int count = countMajorEnrollment(studentInfo, numStudents, majors.get(i));
+        if (count > maxMajorCount) {
+            maxMajorCount = count;
+            mostPopularMajor = majors.get(i);
+        }
+    }
+
+    int maxCourseCount = 0;
+    String mostPopularCourse = "";
+    for (int i = 0; i < courses.size(); i++) {
+        int count = countCourseEnrollment(studentInfo, numStudents, courses.get(i));
+        if (count > maxCourseCount) {
+            maxCourseCount = count;
+            mostPopularCourse = courses.get(i);
+        }
+    }
+
+    System.out.println("\nMost popular major: " + mostPopularMajor + " (" + maxMajorCount + " students)");
+    System.out.println("Most popular course: " + mostPopularCourse + " (" + maxCourseCount + " students)");
+  }
+
+  // Add these helper methods to count enrollments
+  public static int countMajorEnrollment(String[] people, int numPeople, String major) {
+    int count = 0;
+    for (int i = 0; i < numPeople; i++) {
+        String tmp = people[i];
+        String firstCut = tmp.substring(tmp.indexOf(":") + 1);
+        String secondCut = firstCut.substring(firstCut.indexOf(":") + 1);
+        String thirdCut = secondCut.substring(secondCut.indexOf(":") + 1);
+        
+        String remaining = thirdCut;
+        for(int j = 0; j < 3; j++) {
+            if(remaining.indexOf(":") == -1) break;
+            String currentMajor = remaining.substring(0, remaining.indexOf(":"));
+            if(!currentMajor.trim().isEmpty() && currentMajor.equals(major)) {
+                count++;
+                break;
+            }
+            remaining = remaining.substring(remaining.indexOf(":") + 1);
+        }
+    }
+    return count;
+  }
+
+  public static int countCourseEnrollment(String[] people, int numPeople, String course) {
+    int count = 0;
+    for (int i = 0; i < numPeople; i++) {
+        String tmp = people[i];
+        String firstCut = tmp.substring(tmp.indexOf(":") + 1);
+        String secondCut = firstCut.substring(firstCut.indexOf(":") + 1);
+        String thirdCut = secondCut.substring(secondCut.indexOf(":") + 1);
+        String fourthCut = thirdCut.substring(thirdCut.indexOf(":") + 1);
+        String fifthCut = fourthCut.substring(fourthCut.indexOf(":") + 1);
+        String sixthCut = fifthCut.substring(fifthCut.indexOf(":") + 1);
+        
+        while (sixthCut.indexOf(":") >= 0) {
+            if (sixthCut.equals("::::::") || sixthCut.equals(":::::") || 
+                sixthCut.equals("::::") || sixthCut.equals(":::") || 
+                sixthCut.equals("::") || sixthCut.equals(":")) {
+                break;
+            }
+            if (sixthCut.substring(0, sixthCut.indexOf(":")).toUpperCase().equals(course.toUpperCase())) {
+                count++;
+                break;
+            }
+            sixthCut = sixthCut.substring(sixthCut.indexOf(":") + 1);
+        }
+    }
+    return count;
   }
 
   /**
@@ -161,9 +237,23 @@ public class Matcher {
    * @param al majors list
    */
   public static void addMajor(String person, ArrayList<String> al) {
-    String firstCut = person.substring(person.indexOf(":") + 1,person.length());
-    String secondCut = firstCut.substring(firstCut.indexOf(":")+1, firstCut.indexOf(":",firstCut.indexOf(":")+1));
-    al.add(secondCut);
+    String firstCut = person.substring(person.indexOf(":") + 1,person.length()); // remove name
+    String secondCut = firstCut.substring(firstCut.indexOf(":") + 1,firstCut.length()); // remove email
+    String thirdCut = secondCut.substring(secondCut.indexOf(":") + 1,secondCut.length()); // remove org
+
+    String remaining = thirdCut;
+
+    for(int i = 0; i < 3; i++) {
+      if(remaining.indexOf(":") <= 0) break; // checks for no more content
+
+      String major = remaining.substring(0, remaining.indexOf(":")); // sets major to current slot
+
+      if(!major.trim().isEmpty()) {
+        al.add(major); // only non empty major slots
+      }
+
+      remaining = remaining.substring(remaining.indexOf(":") + 1); // next field
+    }
   }
 
   /**
@@ -172,30 +262,34 @@ public class Matcher {
    * @param al courses lis
    */
   public static void addCourses(String person, ArrayList<String> al) {
-    String firstCut = person.substring(person.indexOf(":") + 1,person.length());
-    String secondCut = firstCut.substring(firstCut.indexOf(":") + 1,firstCut.length());
-    String thirdCut = secondCut.substring(secondCut.indexOf(":") + 1,secondCut.length());
+    String firstCut = person.substring(person.indexOf(":") + 1,person.length()); // remove name
+    String secondCut = firstCut.substring(firstCut.indexOf(":") + 1,firstCut.length()); // remove email
+    String thirdCut = secondCut.substring(secondCut.indexOf(":") + 1,secondCut.length()); // remove org
+    String fourthCut = thirdCut.substring(thirdCut.indexOf(":") + 1,thirdCut.length()); // major1
+    String fifthCut = fourthCut.substring(fourthCut.indexOf(":") + 1,fourthCut.length()); // major2
+    String sixthCut = fifthCut.substring(fifthCut.indexOf(":") + 1,fifthCut.length()); // major3
+
     // loop through to add every course of theirs
-    while (thirdCut.indexOf(":") >= 0) {
+    while (sixthCut.indexOf(":") >= 0) {
       // overcomplicated if series to catch cases 
       // where students don't have many courses
-      if (thirdCut.equals("::::::")) {
+      if (sixthCut.equals("::::::")) {
         break;
-      } else if (thirdCut.equals(":::::")) {
+      } else if (sixthCut.equals(":::::")) {
         break;
-      } else if (thirdCut.equals("::::")) {
+      } else if (sixthCut.equals("::::")) {
         break;
-      } else if (thirdCut.equals(":::")) {
+      } else if (sixthCut.equals(":::")) {
         break;
-      } else if (thirdCut.equals("::")) {
+      } else if (sixthCut.equals("::")) {
         break;
-      } else if (thirdCut.equals(":")) {
+      } else if (sixthCut.equals(":")) {
         break;
       } 
-      String tmp = thirdCut.substring(0, thirdCut.indexOf(":"));
+      String tmp = sixthCut.substring(0, sixthCut.indexOf(":"));
       tmp = tmp.toUpperCase();
       al.add(tmp);
-      thirdCut = thirdCut.substring(thirdCut.indexOf(":")+1, thirdCut.length());
+      sixthCut = sixthCut.substring(sixthCut.indexOf(":")+1, sixthCut.length());
     }
   }
 
@@ -230,22 +324,34 @@ public class Matcher {
     public static void matchMajor(String[] people, int numPeople, String major) {
       createMajorFile(major);
       for (int i = 0; i < numPeople; i++) {
-        String tmp = people[i];
-        String firstCut = tmp.substring(tmp.indexOf(":") + 1,tmp.length());
-        String secondCut = firstCut.substring(firstCut.indexOf(":") + 1,firstCut.indexOf(":", firstCut.indexOf(":")+1)); 
-        if (secondCut.equals(major)) {
-          /*
-           * The text string that will be outputted includes the quarter at the end.
-           * This was done intentionally by original creator so that when this 
-           * program (hopefully) gets passed on for years to come, future Sigmas can
-           * use this to see who has taken a course (and when) not just who is taking 
-           * a course.
-           */
-          String text = tmp.substring(0, tmp.indexOf(":")) + " (" + tmp.substring(tmp.indexOf(":")+1, tmp.indexOf(":", tmp.indexOf(":") + 1)) + ") " + quarter.toUpperCase();
-          writeToMajorFile(major, text);
-        }
+          String tmp = people[i];
+          String firstCut = tmp.substring(tmp.indexOf(":") + 1);      // Skip name
+          String secondCut = firstCut.substring(firstCut.indexOf(":") + 1); // Skip email
+          String thirdCut = secondCut.substring(secondCut.indexOf(":") + 1); // Skip org
+          
+          // Check all three major slots
+          String remaining = thirdCut;
+          for(int j = 0; j < 3; j++) {
+              if(remaining.indexOf(":") == -1) break;  // No more content
+              
+              String currentMajor = remaining.substring(0, remaining.indexOf(":"));
+              
+              if(!currentMajor.trim().isEmpty() && currentMajor.equals(major)) {
+                  // Same output format as before
+                  String name = tmp.substring(0, tmp.indexOf(":"));
+                  String removeName = tmp.substring(tmp.indexOf(":") + 1);
+                  String email = removeName.substring(0, removeName.indexOf(":"));
+      
+                  // Then combine them
+                  String text = name + " • " + email + " • " + quarter.toUpperCase();
+                  writeToMajorFile(major, text);
+                  break;  // Found a match, no need to check other major slots
+              }
+              
+              remaining = remaining.substring(remaining.indexOf(":") + 1);
+          }
       }
-    }
+  }
 
     /**
      * Iterates through the list of students and checks
@@ -261,25 +367,28 @@ public class Matcher {
       for (int i = 0; i < numPeople; i++) {
         String tmp = people[i];
         String firstCut = tmp.substring(tmp.indexOf(":") + 1,tmp.length());
-        String secondCut = firstCut.substring(firstCut.indexOf(":") + 1,firstCut.length());
-        String thirdCut = secondCut.substring(secondCut.indexOf(":") + 1,secondCut.length());
-        while (thirdCut.indexOf(":") >= 0) {
+        String secondCut = firstCut.substring(firstCut.indexOf(":") + 1,firstCut.length()); // remove email
+        String thirdCut = secondCut.substring(secondCut.indexOf(":") + 1,secondCut.length()); // remove org
+        String fourthCut = thirdCut.substring(thirdCut.indexOf(":") + 1,thirdCut.length()); // major1
+        String fifthCut = fourthCut.substring(fourthCut.indexOf(":") + 1,fourthCut.length()); // major2
+        String sixthCut = fifthCut.substring(fifthCut.indexOf(":") + 1,fifthCut.length()); // major3
+        while (sixthCut.indexOf(":") >= 0) {
           // overcomplicated if series to catch cases 
           // where students don't have many courses
-          if (thirdCut.equals("::::::")) {
+          if (sixthCut.equals("::::::")) {
             break;
-          } else if (thirdCut.equals(":::::")) {
+          } else if (sixthCut.equals(":::::")) {
             break;
-          } else if (thirdCut.equals("::::")) {
+          } else if (sixthCut.equals("::::")) {
             break;
-          } else if (thirdCut.equals(":::")) {
+          } else if (sixthCut.equals(":::")) {
             break;
-          } else if (thirdCut.equals("::")) {
+          } else if (sixthCut.equals("::")) {
             break;
-          } else if (thirdCut.equals(":")) {
+          } else if (sixthCut.equals(":")) {
             break;
           } 
-          if (thirdCut.substring(0,thirdCut.indexOf(":")).toUpperCase().equals(course.toUpperCase())) {
+          if (sixthCut.substring(0,sixthCut.indexOf(":")).toUpperCase().equals(course.toUpperCase())) {
           /*
            * The text string that will be outputted includes the quarter at the end.
            * This was done intentionally by original creator so that when this 
@@ -287,10 +396,16 @@ public class Matcher {
            * use this to see who has taken a course (and when) not just who is taking 
            * a course.
            */
-            String text = tmp.substring(0, tmp.indexOf(":")) + " (" + tmp.substring(tmp.indexOf(":")+1, tmp.indexOf(":", tmp.indexOf(":") + 1)) + ") " + quarter.toUpperCase();
+            // First get each component separately
+            String name = tmp.substring(0, tmp.indexOf(":"));
+            String removeName = tmp.substring(tmp.indexOf(":") + 1);
+            String email = removeName.substring(0, removeName.indexOf(":"));
+
+            // Then combine them
+            String text = name + " • " + email + " • " + quarter.toUpperCase();
             writeToCourseFile(course.toUpperCase(), text);
           } 
-          thirdCut = thirdCut.substring(thirdCut.indexOf(":")+1, thirdCut.length());
+          sixthCut = sixthCut.substring(sixthCut.indexOf(":")+1, sixthCut.length());
         }
       }
     }
