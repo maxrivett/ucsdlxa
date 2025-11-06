@@ -1,0 +1,55 @@
+Coltrane Gowan:cgowan@ucsd.edu::Data Science:Music Computing & the Arts::DSC 102:CSE 158:MUS 170::::
+John lock:jrlock@ucsd.edu::Business Psychology:Business Analytics::MGT 18:MGT 108R:MGT 16:PSYC 70:::
+Devan Velji:dvelj@ucsd.edu::Joint Mathematics-Economics:Marine Sciences::SIO 177:SIO 171:MATH 142A:CAT 125:::
+Zach:znorcia@ucsd.edu::Cognitive and Behavioral Neuroscience:Accounting::PSYC 106:PSYC 108:PSYC 178:MGT 131A:::
+Gabriel Bortoni:gbortoni@ucsd.edu::Electrical Engineering:::ECE 174:ECE 101:ECE 100::::
+Luc Shoji:lshoji@ucsd.edu::Business Economics:::ECON 100A:MUS 1A:MGT 45:DOC 100D:::
+Zubin Sannakkayala:zsannakkayala@ucsd.edu::Data Science:Mathematics:Business Analytics:CSE 158R:LIGN 101:DSC 140A:MGT 153:::
+Tyler :tylertruscott21@gmail.com::Business Economics:Business Analytics:Technology, Innovation, & Supply Chain:HUM 3:ECON 120B:MGT 164:LISP 1B:LISP 1BX::
+William Saw:wisaw@ucsd.edu::Data Science:::DSC 30:MATH 18:MUS 8:CCE 2:::
+Sven Neuschul:svneuschul@ucsd.edu::Nanoengineering:Entrepreneurship and Innovation:Entrepreneurship and Innovation:NANO 175:MUS 1A:SYN 100:NANO 119:NANO 111::
+Ethan Cheung:e3cheung@ucsd.edu::Human Biology:::MATH 10B:BILD 1:CHEM 6B:SOCI 1:ECON 1::
+Jake Golden:jcgolden@ucsd.edu::Business Psychology:::PSYC 154:PSYC 169:MGT 52::::
+Henry Wang:hew006@ucsd.edu::Business Economics:Technology, Innovation, & Supply Chain::MGT 127R:MGT 153:ECON 110B:ECON 186:::
+Sanil Sharma:sas024@ucsd.edu::Business Psychology:Bioethics::MGT 162:MGT 172:EDS 117:MGT 153:::
+Garv Kapoor:gakapoor@ucsd.edu::Business Economics:Technology, Innovation, & Supply Chain:Real Estate and Development:ECON 100B:MGT 180:MGT 127R:SYN 100:::
+Russell Franconi-Krychman:rfranconikrychman@ucsd.edu::Aerospace Engineering:::MATH 18:MAE 21:PHYS 2C:PHYS 2CL:::
+Aarman Sachdev:assachdev@ucsd.edu::Data Science:::DSC 40A:DSC 30:COGS 14B:GLBH 20:::
+Luke Mizell:lmizell@ucsd.edu::Human Biology:::MATH 3B:PSYC 1:AWP 3:BILD 1:::
+Arin Hardikar:ahardikar@ucsd.edu::Nanoengineering:::MATH 18:DOC 1:MUSIC 17:NANO 4:NANO 11::
+Caleb Sobol:csobol@ucsd.edu::Data Science:::MATH 20B:DSC 10:ANTH 21::::
+Justin Do:just1ndbozz@gmail.com::Psychology:::MATH 10A:PSYC 60:SYN 150::::
+Max Salvetti:mdsalvetti@gmail.com::Chemical Engineering:::CENG 120:CENG 122:NANO 175:PHYS 2CL:::
+Parsa Ashrafmodarres :pashrafmodarres@icloud.com::Psychology:::MATH 2:COGS 2 :BILD 1:PSYC 104:::
+Hans Kamat:hkamat@ucsd.edu::Business Economics:::MATH 10C:PHIL 35:MGT 16::::
+yaro bilaniuk:ybilaniuk@ucsd.edu::Neurobiology:Cognitive Science::CHEM 40B:COGS101A:BIPN 145:TDGE 11:::
+Ivan Ijzerman:ivan.ijzerman@gmail.com::Mechanical Engineering:::MAE 11:MAE 105:MAE 150:CENG 175:::
+Jesus Vazquez:vazqujesus05@gmail.com::Biochemistry:::CHEM 7L:PHYS 1A:PHYS 1AL:MMW 14:EDS 117::
+Charlie Goulden:cgoulden@ucsd.edu::Mechanical Engineering:::MAE 3:MAE 20:MATH 20E::::
+Anatol Poppe:apoppe@ucsd.edu::Electrical Engineering:::ECE 25:ECE 35:ECE 5:WCWP 100:::
+Aleksey Dykhno:adykhno@ucsd.edu::Computer Science:Cognitive Science::CSE 21:MATH 20C:COGS 10::::
+Salm Ariannejad :salmariannejad@gmail.com::Business Economics:::MATH 20C:MGT 16 :ASTRO 1::::
+Benjamin Scheerger:bscheerger@ucsd.edu::Cognitive Science:Computer Science::CSE 101:COGS 107A:COGS 118A:SYN 100:::
+Arish Chowdhury :a2chowdhury@ucsd.edu::Data Science:::COGS 14A:MATH 20B:DSC 10:MGT 18:::
+Oliver Rhodes:orhodes@ucsd.edu::Psychology:::CHEM 43A:BICD 100:PSYC 124 :PSYC 181 :::
+Amogh Gowda:amgowda@ucsd.edu::Joint Mathematics-Economics:Finance:Business Analytics:MATH 142A:ECON 110A:MGT 137:MGT 108R:::
+Tyler Truscott:tytruscott@ucsd.edu::Business Economics:Business Analytics:Technology, Innovation, & Supply Chain:HUM 3:MGT 164:ECON 120B:LISP 1B:LISP 1BX::
+Oskar Yu:osyu@ucsd.edu::Cognitive Science:Finance::COGS 10:COGS 17:COGS 14A:MATH 180A:ANTH 21::
+Arav Sakthivel:sakthivel.arav@gmail.com::Structural Engineering:::MATH 18:CHEM 6A:MMW 11::::
+Connor Hwang:cohwang@ucsd.edu::Political Science:::POLI 10D:POLI 30D:MGT 3:ECON 1:::
+Akitsugu Uchida:auchida@ucsd.edu::International Business:::HIEA 112:MGT 185:INTL 101:LIIT 1A:LIIT 1AX::
+Arnab Rahman:a9rahman@ucsd.edu::Mathematics:::MATH 18:CSE 8A:HILD 7A::::
+Evan Lodge:elodge@ucsd.edu::Business Economics:::MATH 20B:CHEM 4:MGT 18:ECON 1:::
+Sehoon Park:09sehoonpark@gmail.com::Joint Mathematics-Economics:::MATH 102:ECON 100A:VIS 152D::::
+Douglas Bradley:dmbradley@ucsd.edu::Political Science:::ECON 1:POLI 11D:PH 40::::
+Callum Kuehn :cakuehn@ucsd.edu::Human Biology:::BILD 2:BILD 3:CHEM 6C:PHYS 1A:PHYS 1AL::
+Kais Buckley-Larab:kbuckleylarab@ucsd.edu::Computer Science:::MATH 20B:HILA 131:CSE 8A:USP 25:::
+Atharva Kedia:atkedia@ucsd.edu::Computer Engineering:::CSE 120:ECE 101:MUS 19R:CSE 101:::
+Ian McGregor:mcgregian@gmail.com::Nanoengineering:::NANO 119:NANO 159:SYN 100:VIS 60:LISL 1AR::
+Arya Atooni:aryaatooni@gmail.com::Psychology:Law and Society::PSYC 104:PSYC 124:PSYC 137::::
+Ethan Kam:ekam@ucsd.edu::Business Economics:Data Science::MATH 20C:DSC 10:MGT 45:MGT 16:::
+Sebastian Salazar:ssalazarb1213@gmail.com::Environmental Systems:Ecology, Behavior, and Evolution::MATH3B:PHIL10:LIGN17:ECON1:::
+Anshul Wadhwani:awadhwani@ucsd.edu::Public Health:::CHEM 43A:BIEB 102:BICD 130::::
+TJ Prabhakar:tejas2006@icloud.com::Computer Science:::MATH 18:CSE 11:::::
+Esteban Velázquez:estebanvelazquezparada@hotmail.com::Political Science:::POLI 30D:POLI 154:MGT 12:POLI 104N:::
+Charlie Goulden:cgoulden@uscd.edu::Mechanical Engineering:::MAE 3:MAE 20:MATH 20E::::
